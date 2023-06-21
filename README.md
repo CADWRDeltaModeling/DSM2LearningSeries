@@ -1,2 +1,2 @@
 # DSM2TrainingSeries
-TrainingMaterials
+Training Materials for DSM2
