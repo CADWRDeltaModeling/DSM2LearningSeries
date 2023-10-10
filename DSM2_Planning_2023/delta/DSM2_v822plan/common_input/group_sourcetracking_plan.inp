@@ -1,0 +1,25 @@
+# Description:
+# fingerprint source tracking for Calsim3 planning
+# 202012
+GROUP
+NAME 
+ag    
+east  
+mtz   
+sac   
+sjr
+yolo
+END
+
+
+
+GROUP_MEMBER
+GROUP_NAME MEMBER_TYPE   PATTERN                  
+ag         source_sink   dicu_.*                   
+east       flow_boundary (moke|mok_ds_sr1|calaveras)
+east       flow_boundary (cosumnes)
+mtz        stage         mtz                       
+sac        flow_boundary sac                
+sjr        flow_boundary vernalis
+yolo       flow_boundary yolo
+END

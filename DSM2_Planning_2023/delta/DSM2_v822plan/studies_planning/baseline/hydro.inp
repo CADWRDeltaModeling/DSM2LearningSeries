@@ -1,0 +1,73 @@
+# Description
+# Planning study for Calsim 3 LTO
+# 202303
+CONFIGURATION
+config.inp
+END
+
+SCALAR
+NAME             VALUE
+title            DSM2 DELTA ${DSM2MODIFIER}
+run_start_date   ${START_DATE}
+run_end_date     ${END_DATE}
+run_start_time   ${START_TIME}
+run_end_time     ${END_TIME}
+temp_dir         z:/temp
+printlevel       1
+binary_output    false
+dss_direct       true
+flush_output     20Day
+END
+
+IO_FILE
+MODEL TYPE    IO  INTERVAL FILE
+hydro hdf5    out    1hour ${HYDROTIDEFILE}  #Flow data to be passed to qual and ptm 
+hydro restart out     1mon ${HYDRORSTFILE}   #Initial condition a restart is required
+hydro output  out     none ${HYDROOUTFILE}   #Echoed run status                      
+hydro echo    out     none ${DSM2OUTPUTDIR}/hydro_echo_${DSM2MODIFIER}.inp  #Echoed input                              
+END
+
+PARAMETER
+${DSM2INPUTDIR}/scalar_hydro_std.inp               #20090715
+END
+
+GRID
+${DSM2INPUTDIR}/channel_std_delta_grid.inp         #20200828 mini-calibration
+./input/hydro/channel_delta_restoration.inp        #20200501 restoration projects and intakes
+${DSM2INPUTDIR}/reservoir_std_delta_grid.inp       #20121214
+./input/hydro/reservoir_delta_restoration.inp      #20200323 restoration projects
+${DSM2INPUTDIR}/gate_std_delta_grid.inp            #20160502
+./input/hydro/gate_delta_restoration.inp           #20200403 restoration projects connection
+${DSM2INPUTDIR}/gate_temp_barriers.inp             #20090827
+END
+
+INITIAL_CONDITION
+${DSM2INPUTDIR}/channel_ic_std_delta_grid.inp      #20121214
+./input/hydro/channel_ic_delta_restoration.inp     #20200323 restoration projects
+${DSM2INPUTDIR}/reservoir_ic_std_delta_grid.inp    #20121214
+./input/hydro/reservoir_ic_delta_restoration.inp   #20200320 restoration projects
+END
+
+HYDRO_TIME_SERIES
+${DSM2INPUTDIR}/input_gate_planning_ccfb_dcc_timing.inp #202002
+./input/hydro/boundary_flow.inp                         #20200201
+./input/hydro/source_flow.inp                           #20200201
+${DSM2INPUTDIR}/source_flow_dcd_plan_mon.inp            #202007 DCD monthly
+${DSM2INPUTDIR}/source_flow_scd_plan_mon.inp            #201907 suisun marsh CD
+./input/hydro/boundary_MTZ.inp                          #20200201
+END
+
+OPERATION
+${DSM2INPUTDIR}/oprule_montezuma_planning_gate.inp      #202009
+${DSM2INPUTDIR}/oprule_temp_barriers_planning.inp       #20090930
+# ./input/hydro/oprule_smscg1d.inp                        #202212
+END
+
+OUTPUT_TIME_SERIES
+# ${DSM2INPUTDIR}/output_gate_temporary_barriers.inp      #202101
+${DSM2INPUTDIR}/output_flow_rki.inp                     #202103
+${DSM2INPUTDIR}/output_stage_rki.inp                    #202103
+${DSM2INPUTDIR}/output_vel_rki.inp                      #202103
+# ${DSM2INPUTDIR}/output_gate.inp                         #20200201
+./input/hydro/output_hydro_lto.inp                      #202304
+END

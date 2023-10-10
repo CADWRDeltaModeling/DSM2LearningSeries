@@ -1,0 +1,175 @@
+{
+ "arch": "x86_64",
+ "build": "py37_0",
+ "build_number": 0,
+ "channel": "https://conda.anaconda.org/cadwr-dms/win-64",
+ "constrains": [],
+ "depends": [
+  "numpy >=1.16",
+  "pandas >=0.23",
+  "python >=3.7,<3.8.0a0"
+ ],
+ "extracted_package_dir": "",
+ "features": "",
+ "files": [
+  "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/PKG-INFO",
+  "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/SOURCES.txt",
+  "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/dependency_links.txt",
+  "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/not-zip-safe",
+  "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/requires.txt",
+  "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/top_level.txt",
+  "Lib/site-packages/pyhecdss/__init__.py",
+  "Lib/site-packages/pyhecdss/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/pyhecdss/__pycache__/_version.cpython-37.pyc",
+  "Lib/site-packages/pyhecdss/__pycache__/pyhecdss.cpython-37.pyc",
+  "Lib/site-packages/pyhecdss/__pycache__/pyheclib.cpython-37.pyc",
+  "Lib/site-packages/pyhecdss/_pyheclib.cp37-win_amd64.pyd",
+  "Lib/site-packages/pyhecdss/_version.py",
+  "Lib/site-packages/pyhecdss/hecwrapper.c",
+  "Lib/site-packages/pyhecdss/pyhecdss.py",
+  "Lib/site-packages/pyhecdss/pyheclib.i",
+  "Lib/site-packages/pyhecdss/pyheclib.py"
+ ],
+ "fn": "pyhecdss-1.1.4-py37_0.tar.bz2",
+ "license": "MIT",
+ "license_family": "MIT",
+ "link": {
+  "source": "",
+  "type": 1
+ },
+ "md5": "4a051065793c4e22918103b6d0642ab1",
+ "name": "pyhecdss",
+ "package_tarball_full_path": "",
+ "paths_data": {
+  "paths": [
+   {
+    "_path": "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/PKG-INFO",
+    "path_type": "hardlink",
+    "sha256": "b2411e05010acc4df0ac8c854be20b8d9ec1820528daaadadb16e89700323b5c",
+    "sha256_in_prefix": "b2411e05010acc4df0ac8c854be20b8d9ec1820528daaadadb16e89700323b5c",
+    "size_in_bytes": 4877
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/SOURCES.txt",
+    "path_type": "hardlink",
+    "sha256": "eb8cb7cdf013bab6b83a0175a267f2ef3a114ee9b67f7cbe5c48efa5814da596",
+    "sha256_in_prefix": "eb8cb7cdf013bab6b83a0175a267f2ef3a114ee9b67f7cbe5c48efa5814da596",
+    "size_in_bytes": 1923
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/dependency_links.txt",
+    "path_type": "hardlink",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "size_in_bytes": 1
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/not-zip-safe",
+    "path_type": "hardlink",
+    "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "sha256_in_prefix": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "size_in_bytes": 2
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/requires.txt",
+    "path_type": "hardlink",
+    "sha256": "e81d8faee5b7f40d2e0b1a7e2e58f212e1930ad1fd07334bb6c30661a9459628",
+    "sha256_in_prefix": "e81d8faee5b7f40d2e0b1a7e2e58f212e1930ad1fd07334bb6c30661a9459628",
+    "size_in_bytes": 28
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss-1.1.4+0.gb79fb65.dirty-py3.7.egg-info/top_level.txt",
+    "path_type": "hardlink",
+    "sha256": "799d0dc7793f3453003a02cf713a3f12949a60c02c385b1d61b842b5f1520e55",
+    "sha256_in_prefix": "799d0dc7793f3453003a02cf713a3f12949a60c02c385b1d61b842b5f1520e55",
+    "size_in_bytes": 9
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "88caeef897fad276d24c457d5c39a26ca1d8857255529bb3e9dc174d288a16e3",
+    "sha256_in_prefix": "88caeef897fad276d24c457d5c39a26ca1d8857255529bb3e9dc174d288a16e3",
+    "size_in_bytes": 354
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "2f1367f72d8405c4351ce95d10a500c8ef22e3040d3a433a43fa6d8681c49303",
+    "sha256_in_prefix": "2f1367f72d8405c4351ce95d10a500c8ef22e3040d3a433a43fa6d8681c49303",
+    "size_in_bytes": 546
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/__pycache__/_version.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "3a79ec72336fe3d6b82f8cc4be4aeba7dab2c847b2f483f73d87cece3d544f04",
+    "sha256_in_prefix": "3a79ec72336fe3d6b82f8cc4be4aeba7dab2c847b2f483f73d87cece3d544f04",
+    "size_in_bytes": 461
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/__pycache__/pyhecdss.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "60e2f6b6179c9b7725e2935eac285771986ec338baa1a79ab0bfb314235a37d0",
+    "sha256_in_prefix": "60e2f6b6179c9b7725e2935eac285771986ec338baa1a79ab0bfb314235a37d0",
+    "size_in_bytes": 23610
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/__pycache__/pyheclib.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "3b1ea01329312d00320c2c5f29d077f7e8041f1c24d684fdda2afbed6298a17c",
+    "sha256_in_prefix": "3b1ea01329312d00320c2c5f29d077f7e8041f1c24d684fdda2afbed6298a17c",
+    "size_in_bytes": 9796
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/_pyheclib.cp37-win_amd64.pyd",
+    "path_type": "hardlink",
+    "sha256": "807e90b0748ad6de8454d8163a801d98bd11e1445fd6a1832df800eaf9bbf6cb",
+    "sha256_in_prefix": "807e90b0748ad6de8454d8163a801d98bd11e1445fd6a1832df800eaf9bbf6cb",
+    "size_in_bytes": 1150464
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/_version.py",
+    "path_type": "hardlink",
+    "sha256": "c72523fcea2fb3381d92eedd1c43ae4677a57ce703cbd74a42a1159b8843fce0",
+    "sha256_in_prefix": "c72523fcea2fb3381d92eedd1c43ae4677a57ce703cbd74a42a1159b8843fce0",
+    "size_in_bytes": 534
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/hecwrapper.c",
+    "path_type": "hardlink",
+    "sha256": "a44c9db478ab805b1c2c29f5ae9cb5b5a02034df632a4e873481d1e6e6a192ee",
+    "sha256_in_prefix": "a44c9db478ab805b1c2c29f5ae9cb5b5a02034df632a4e873481d1e6e6a192ee",
+    "size_in_bytes": 4043
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/pyhecdss.py",
+    "path_type": "hardlink",
+    "sha256": "bb6f1b397d7e56243164ae5f2d12af073274a0f0dbf14a785d5bf1228070f9ca",
+    "sha256_in_prefix": "bb6f1b397d7e56243164ae5f2d12af073274a0f0dbf14a785d5bf1228070f9ca",
+    "size_in_bytes": 30293
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/pyheclib.i",
+    "path_type": "hardlink",
+    "sha256": "fd013033fd3d2e288a5c25f95a6022c8e7c53e53f3ab7679738a899e2b561996",
+    "sha256_in_prefix": "fd013033fd3d2e288a5c25f95a6022c8e7c53e53f3ab7679738a899e2b561996",
+    "size_in_bytes": 5354
+   },
+   {
+    "_path": "Lib/site-packages/pyhecdss/pyheclib.py",
+    "path_type": "hardlink",
+    "sha256": "5f53adb21d2762ba59d5b01a62de870cda3f24c13d17ad1cd3b341f216ac324e",
+    "sha256_in_prefix": "5f53adb21d2762ba59d5b01a62de870cda3f24c13d17ad1cd3b341f216ac324e",
+    "size_in_bytes": 7582
+   }
+  ],
+  "paths_version": 1
+ },
+ "platform": "win32",
+ "requested_spec": "pyhecdss",
+ "size": 531830,
+ "subdir": "win-64",
+ "timestamp": 1638931764775,
+ "track_features": "",
+ "url": "https://conda.anaconda.org/cadwr-dms/win-64/pyhecdss-1.1.4-py37_0.tar.bz2",
+ "version": "1.1.4"
+}

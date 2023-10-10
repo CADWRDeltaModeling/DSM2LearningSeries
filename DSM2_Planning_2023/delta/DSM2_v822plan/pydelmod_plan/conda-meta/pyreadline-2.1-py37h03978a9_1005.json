@@ -1,0 +1,773 @@
+{
+ "build": "py37h03978a9_1005",
+ "build_number": 1005,
+ "channel": "https://conda.anaconda.org/conda-forge/win-64",
+ "constrains": [],
+ "depends": [
+  "python >=3.7,<3.8.0a0",
+  "python_abi 3.7.* *_cp37m"
+ ],
+ "extracted_package_dir": "",
+ "features": "",
+ "files": [
+  "Lib/site-packages/__pycache__/readline.cpython-37.pyc",
+  "Lib/site-packages/pyreadline-2.1.dist-info/INSTALLER",
+  "Lib/site-packages/pyreadline-2.1.dist-info/METADATA",
+  "Lib/site-packages/pyreadline-2.1.dist-info/RECORD",
+  "Lib/site-packages/pyreadline-2.1.dist-info/REQUESTED",
+  "Lib/site-packages/pyreadline-2.1.dist-info/WHEEL",
+  "Lib/site-packages/pyreadline-2.1.dist-info/direct_url.json",
+  "Lib/site-packages/pyreadline-2.1.dist-info/top_level.txt",
+  "Lib/site-packages/pyreadline/__init__.py",
+  "Lib/site-packages/pyreadline/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/__pycache__/error.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/__pycache__/get_doc.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/__pycache__/logger.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/__pycache__/logserver.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/__pycache__/py3k_compat.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/__pycache__/release.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/__pycache__/rlmain.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/__pycache__/unicode_helper.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/clipboard/__init__.py",
+  "Lib/site-packages/pyreadline/clipboard/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/clipboard/__pycache__/ironpython_clipboard.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/clipboard/__pycache__/no_clipboard.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/clipboard/__pycache__/win32_clipboard.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/clipboard/ironpython_clipboard.py",
+  "Lib/site-packages/pyreadline/clipboard/no_clipboard.py",
+  "Lib/site-packages/pyreadline/clipboard/win32_clipboard.py",
+  "Lib/site-packages/pyreadline/configuration/__pycache__/startup.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/configuration/pyreadlineconfig.ini",
+  "Lib/site-packages/pyreadline/configuration/startup.py",
+  "Lib/site-packages/pyreadline/console/__init__.py",
+  "Lib/site-packages/pyreadline/console/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/console/__pycache__/ansi.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/console/__pycache__/console.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/console/__pycache__/console_attributes.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/console/__pycache__/consolebase.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/console/__pycache__/event.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/console/__pycache__/ironpython_console.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/console/ansi.py",
+  "Lib/site-packages/pyreadline/console/console.py",
+  "Lib/site-packages/pyreadline/console/console_attributes.py",
+  "Lib/site-packages/pyreadline/console/consolebase.py",
+  "Lib/site-packages/pyreadline/console/event.py",
+  "Lib/site-packages/pyreadline/console/ironpython_console.py",
+  "Lib/site-packages/pyreadline/error.py",
+  "Lib/site-packages/pyreadline/get_doc.py",
+  "Lib/site-packages/pyreadline/keysyms/__init__.py",
+  "Lib/site-packages/pyreadline/keysyms/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/keysyms/__pycache__/common.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/keysyms/__pycache__/ironpython_keysyms.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/keysyms/__pycache__/keysyms.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/keysyms/__pycache__/winconstants.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/keysyms/common.py",
+  "Lib/site-packages/pyreadline/keysyms/ironpython_keysyms.py",
+  "Lib/site-packages/pyreadline/keysyms/keysyms.py",
+  "Lib/site-packages/pyreadline/keysyms/winconstants.py",
+  "Lib/site-packages/pyreadline/lineeditor/__init__.py",
+  "Lib/site-packages/pyreadline/lineeditor/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/lineeditor/__pycache__/history.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/lineeditor/__pycache__/lineobj.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/lineeditor/__pycache__/wordmatcher.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/lineeditor/history.py",
+  "Lib/site-packages/pyreadline/lineeditor/lineobj.py",
+  "Lib/site-packages/pyreadline/lineeditor/wordmatcher.py",
+  "Lib/site-packages/pyreadline/logger.py",
+  "Lib/site-packages/pyreadline/logserver.py",
+  "Lib/site-packages/pyreadline/modes/__init__.py",
+  "Lib/site-packages/pyreadline/modes/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/modes/__pycache__/basemode.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/modes/__pycache__/emacs.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/modes/__pycache__/notemacs.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/modes/__pycache__/vi.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/modes/basemode.py",
+  "Lib/site-packages/pyreadline/modes/emacs.py",
+  "Lib/site-packages/pyreadline/modes/notemacs.py",
+  "Lib/site-packages/pyreadline/modes/vi.py",
+  "Lib/site-packages/pyreadline/py3k_compat.py",
+  "Lib/site-packages/pyreadline/release.py",
+  "Lib/site-packages/pyreadline/rlmain.py",
+  "Lib/site-packages/pyreadline/test/__init__.py",
+  "Lib/site-packages/pyreadline/test/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/test/__pycache__/common.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/test/__pycache__/test_emacs.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/test/__pycache__/test_history.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/test/__pycache__/test_lineeditor.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/test/__pycache__/test_vi.cpython-37.pyc",
+  "Lib/site-packages/pyreadline/test/common.py",
+  "Lib/site-packages/pyreadline/test/test_emacs.py",
+  "Lib/site-packages/pyreadline/test/test_history.py",
+  "Lib/site-packages/pyreadline/test/test_lineeditor.py",
+  "Lib/site-packages/pyreadline/test/test_vi.py",
+  "Lib/site-packages/pyreadline/unicode_helper.py",
+  "Lib/site-packages/readline.py"
+ ],
+ "fn": "pyreadline-2.1-py37h03978a9_1005.tar.bz2",
+ "license": "BSD-3-Clause",
+ "license_family": "BSD",
+ "link": {
+  "source": "",
+  "type": 1
+ },
+ "md5": "46d976337ee6ac5b5f258f1be62bed2e",
+ "name": "pyreadline",
+ "package_tarball_full_path": "",
+ "paths_data": {
+  "paths": [
+   {
+    "_path": "Lib/site-packages/__pycache__/readline.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "b679f6e2d53545fadcc725496e0e534f8a9485a94d2f511e4a41857b20994245",
+    "sha256_in_prefix": "b679f6e2d53545fadcc725496e0e534f8a9485a94d2f511e4a41857b20994245",
+    "size_in_bytes": 1616
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline-2.1.dist-info/INSTALLER",
+    "path_type": "hardlink",
+    "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+    "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+    "size_in_bytes": 5
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline-2.1.dist-info/METADATA",
+    "path_type": "hardlink",
+    "sha256": "dbf9fc886d851783798c23f8e944c423efc8ba6d4885a0318b16f44804608f5c",
+    "sha256_in_prefix": "dbf9fc886d851783798c23f8e944c423efc8ba6d4885a0318b16f44804608f5c",
+    "size_in_bytes": 2226
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline-2.1.dist-info/RECORD",
+    "path_type": "hardlink",
+    "sha256": "3efa8489a065e64bb07fca7451bf4fa041592e4e816e7f83928eddeb6d7c694a",
+    "sha256_in_prefix": "3efa8489a065e64bb07fca7451bf4fa041592e4e816e7f83928eddeb6d7c694a",
+    "size_in_bytes": 6729
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline-2.1.dist-info/REQUESTED",
+    "path_type": "hardlink",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size_in_bytes": 0
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline-2.1.dist-info/WHEEL",
+    "path_type": "hardlink",
+    "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+    "sha256_in_prefix": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+    "size_in_bytes": 92
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline-2.1.dist-info/direct_url.json",
+    "path_type": "hardlink",
+    "sha256": "1812295ccfdad2f27cc9310fa4eab10e5178cf1440cb119578aec41b94abfacd",
+    "sha256_in_prefix": "1812295ccfdad2f27cc9310fa4eab10e5178cf1440cb119578aec41b94abfacd",
+    "size_in_bytes": 71
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline-2.1.dist-info/top_level.txt",
+    "path_type": "hardlink",
+    "sha256": "48376f21398c9d11ca32bdf7d6c03b6e55c9a58e263a274930c25e4f52035e8c",
+    "sha256_in_prefix": "48376f21398c9d11ca32bdf7d6c03b6e55c9a58e263a274930c25e4f52035e8c",
+    "size_in_bytes": 20
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "c6d0ccb7733ff297d9cb5bd72ca53040ae0e6630479a7dc42218c3900ab681dc",
+    "sha256_in_prefix": "c6d0ccb7733ff297d9cb5bd72ca53040ae0e6630479a7dc42218c3900ab681dc",
+    "size_in_bytes": 661
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "6543cea156f7e36f2e817a0803e8dcd94adf6ba6ce49cc096750acedeab81a42",
+    "sha256_in_prefix": "6543cea156f7e36f2e817a0803e8dcd94adf6ba6ce49cc096750acedeab81a42",
+    "size_in_bytes": 421
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/error.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "e9de5b06d56c4d169a6604a618271a370d201989cd8ea08763968c0cf8bf7832",
+    "sha256_in_prefix": "e9de5b06d56c4d169a6604a618271a370d201989cd8ea08763968c0cf8bf7832",
+    "size_in_bytes": 530
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/get_doc.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "f98baf84e0e7898fc3025a5055848ed8b199880c0f4518e780d592fcf01003eb",
+    "sha256_in_prefix": "f98baf84e0e7898fc3025a5055848ed8b199880c0f4518e780d592fcf01003eb",
+    "size_in_bytes": 1067
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/logger.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "c6295e520926b4b349850613b14b1df5e6d5826aa2c4af88f1d58784b9f02301",
+    "sha256_in_prefix": "c6295e520926b4b349850613b14b1df5e6d5826aa2c4af88f1d58784b9f02301",
+    "size_in_bytes": 2612
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/logserver.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "d84603526b014bca123fa986a6f871d29e1a7d5ad2a375fa28b29b2b1ba4ecdb",
+    "sha256_in_prefix": "d84603526b014bca123fa986a6f871d29e1a7d5ad2a375fa28b29b2b1ba4ecdb",
+    "size_in_bytes": 1409
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/py3k_compat.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "7db356fbc0c6c1155f41911c12005a918cc42fc088aeda68a41e1cd1fd41c8ac",
+    "sha256_in_prefix": "7db356fbc0c6c1155f41911c12005a918cc42fc088aeda68a41e1cd1fd41c8ac",
+    "size_in_bytes": 798
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/release.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "1573d4e5a2b1d48010f32f897e888e3c3d5048aac0937b74bad11eedde114c93",
+    "sha256_in_prefix": "1573d4e5a2b1d48010f32f897e888e3c3d5048aac0937b74bad11eedde114c93",
+    "size_in_bytes": 2470
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/rlmain.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "293d8c8a53114e2f47130fe58c55a68594b9a79e809844b3f83ccb04a439225f",
+    "sha256_in_prefix": "293d8c8a53114e2f47130fe58c55a68594b9a79e809844b3f83ccb04a439225f",
+    "size_in_bytes": 22022
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/__pycache__/unicode_helper.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "1bd49372ed2c7ac37843175b552023d52d25fa398931356d0bcc1028ca382cc4",
+    "sha256_in_prefix": "1bd49372ed2c7ac37843175b552023d52d25fa398931356d0bcc1028ca382cc4",
+    "size_in_bytes": 1278
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/clipboard/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "ec0464ce9b83576c9f5a89ccf46d96c5674bcd527fd2d59954aa58ed716160c2",
+    "sha256_in_prefix": "ec0464ce9b83576c9f5a89ccf46d96c5674bcd527fd2d59954aa58ed716160c2",
+    "size_in_bytes": 2205
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/clipboard/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "421f3c515f1607d889448d411f3161659ac0f1a820f611ef4d2555eeaf960666",
+    "sha256_in_prefix": "421f3c515f1607d889448d411f3161659ac0f1a820f611ef4d2555eeaf960666",
+    "size_in_bytes": 2662
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/clipboard/__pycache__/ironpython_clipboard.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "26fc37fa88701a9b32e4469ab0dbdd4f9fcea4a763c54ddd7e31bc10477412d8",
+    "sha256_in_prefix": "26fc37fa88701a9b32e4469ab0dbdd4f9fcea4a763c54ddd7e31bc10477412d8",
+    "size_in_bytes": 769
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/clipboard/__pycache__/no_clipboard.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "41834adbb06126b902882fd2e40fd30f56969a6ea4ba60a14869f7d42726c5bf",
+    "sha256_in_prefix": "41834adbb06126b902882fd2e40fd30f56969a6ea4ba60a14869f7d42726c5bf",
+    "size_in_bytes": 486
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/clipboard/__pycache__/win32_clipboard.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "66d3c7a6b15f93c8805ca7a96e477f33f41b6a5b492f7feb4f6c9c2a6b2aad5a",
+    "sha256_in_prefix": "66d3c7a6b15f93c8805ca7a96e477f33f41b6a5b492f7feb4f6c9c2a6b2aad5a",
+    "size_in_bytes": 2320
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/clipboard/ironpython_clipboard.py",
+    "path_type": "hardlink",
+    "sha256": "43e33d629bf514f24ee1a08dd6bf43423a213e22ecd2216a4eb9529d8615515a",
+    "sha256_in_prefix": "43e33d629bf514f24ee1a08dd6bf43423a213e22ecd2216a4eb9529d8615515a",
+    "size_in_bytes": 919
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/clipboard/no_clipboard.py",
+    "path_type": "hardlink",
+    "sha256": "e2a4cdd26896e5591003d716c5d7cf4c23d881a9f8c87773abaa77fdc650a3fd",
+    "sha256_in_prefix": "e2a4cdd26896e5591003d716c5d7cf4c23d881a9f8c87773abaa77fdc650a3fd",
+    "size_in_bytes": 622
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/clipboard/win32_clipboard.py",
+    "path_type": "hardlink",
+    "sha256": "28daf2e4326b289c05fcd37490d38121356860113a06b69f2747853ec58493fa",
+    "sha256_in_prefix": "28daf2e4326b289c05fcd37490d38121356860113a06b69f2747853ec58493fa",
+    "size_in_bytes": 4310
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/configuration/__pycache__/startup.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "6e01d943f49561deb7c18da401e096cb4b527fe82f297ff660ee842f49b7c111",
+    "sha256_in_prefix": "6e01d943f49561deb7c18da401e096cb4b527fe82f297ff660ee842f49b7c111",
+    "size_in_bytes": 799
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/configuration/pyreadlineconfig.ini",
+    "path_type": "hardlink",
+    "sha256": "6b14481c1747a1fb5fda9234cb19526cf85ea37183652d4586f50ff4eed3ac91",
+    "sha256_in_prefix": "6b14481c1747a1fb5fda9234cb19526cf85ea37183652d4586f50ff4eed3ac91",
+    "size_in_bytes": 3953
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/configuration/startup.py",
+    "path_type": "hardlink",
+    "sha256": "8a07f8756abb6dc2d3494a8f45928f360a121190ac41ee5fa47e7942e724129c",
+    "sha256_in_prefix": "8a07f8756abb6dc2d3494a8f45928f360a121190ac41ee5fa47e7942e724129c",
+    "size_in_bytes": 1135
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "a9357f08152987e8e9d0c238e95292d4ae874dd305901e75a0bdac4daeb8aa77",
+    "sha256_in_prefix": "a9357f08152987e8e9d0c238e95292d4ae874dd305901e75a0bdac4daeb8aa77",
+    "size_in_bytes": 538
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "170031a424c053778dd3dadece2a1b4d1196c60a292b657e1587eedd417892b4",
+    "sha256_in_prefix": "170031a424c053778dd3dadece2a1b4d1196c60a292b657e1587eedd417892b4",
+    "size_in_bytes": 568
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/__pycache__/ansi.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "69b39c58b0356139a845d4124c18781fdac6fc957e8fc66966ba28f4480504cb",
+    "sha256_in_prefix": "69b39c58b0356139a845d4124c18781fdac6fc957e8fc66966ba28f4480504cb",
+    "size_in_bytes": 5518
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/__pycache__/console.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "cf965dcb708e2f9cf663e63795e9dfe6b69faad6d0aae379f6a777f3765eda34",
+    "sha256_in_prefix": "cf965dcb708e2f9cf663e63795e9dfe6b69faad6d0aae379f6a777f3765eda34",
+    "size_in_bytes": 20350
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/__pycache__/console_attributes.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "c317730668fed1f34e5d79437d76efc02b110b0e9ddcd930da2dbc5b49c73b8c",
+    "sha256_in_prefix": "c317730668fed1f34e5d79437d76efc02b110b0e9ddcd930da2dbc5b49c73b8c",
+    "size_in_bytes": 740
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/__pycache__/consolebase.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "29be7e3ea7004f2041200ee1f88bc03df287212446fe2281bf1464a1c39f46f5",
+    "sha256_in_prefix": "29be7e3ea7004f2041200ee1f88bc03df287212446fe2281bf1464a1c39f46f5",
+    "size_in_bytes": 2581
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/__pycache__/event.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "7c3be34cf1d91cd5ba7a71c9febecfc81009aaa3ebaefb666b84872899ac7b40",
+    "sha256_in_prefix": "7c3be34cf1d91cd5ba7a71c9febecfc81009aaa3ebaefb666b84872899ac7b40",
+    "size_in_bytes": 1238
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/__pycache__/ironpython_console.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "deb22355211ba2f355959085080c078dbee1f522ca93a9befa566a7c9c70a037",
+    "sha256_in_prefix": "deb22355211ba2f355959085080c078dbee1f522ca93a9befa566a7c9c70a037",
+    "size_in_bytes": 12111
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/ansi.py",
+    "path_type": "hardlink",
+    "sha256": "cdceb7431ad40675428ba80c5514df16cb44bc3939bf14022168729cb40f056a",
+    "sha256_in_prefix": "cdceb7431ad40675428ba80c5514df16cb44bc3939bf14022168729cb40f056a",
+    "size_in_bytes": 7598
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/console.py",
+    "path_type": "hardlink",
+    "sha256": "85f01e0127a9dde3979b1925d817da0556a2e0920ae8245f2b0186d729559e4e",
+    "sha256_in_prefix": "85f01e0127a9dde3979b1925d817da0556a2e0920ae8245f2b0186d729559e4e",
+    "size_in_bytes": 31201
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/console_attributes.py",
+    "path_type": "hardlink",
+    "sha256": "f7c70e74c2f9071b2f9d5b31565a9640133700b385e1a1e19dec2619bb968bfb",
+    "sha256_in_prefix": "f7c70e74c2f9071b2f9d5b31565a9640133700b385e1a1e19dec2619bb968bfb",
+    "size_in_bytes": 616
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/consolebase.py",
+    "path_type": "hardlink",
+    "sha256": "e02b33bcf5529588a66c6cf58b1491ec6f817b26386016a29cd28e83d1eb8199",
+    "sha256_in_prefix": "e02b33bcf5529588a66c6cf58b1491ec6f817b26386016a29cd28e83d1eb8199",
+    "size_in_bytes": 1669
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/event.py",
+    "path_type": "hardlink",
+    "sha256": "4745af94a2cdd96e0ec5d2f359f35c04067d769d1d38801ef0fb23b71e92134a",
+    "sha256_in_prefix": "4745af94a2cdd96e0ec5d2f359f35c04067d769d1d38801ef0fb23b71e92134a",
+    "size_in_bytes": 1237
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/console/ironpython_console.py",
+    "path_type": "hardlink",
+    "sha256": "6c1f1b8ee0c8d4c32e7043b7ca7d52968b49642af12814594b483a23b126a2ef",
+    "sha256_in_prefix": "6c1f1b8ee0c8d4c32e7043b7ca7d52968b49642af12814594b483a23b126a2ef",
+    "size_in_bytes": 14177
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/error.py",
+    "path_type": "hardlink",
+    "sha256": "8f923c58db0e8c2af103d650fef5bb445180f91b7402e9afd463bb76ea16625b",
+    "sha256_in_prefix": "8f923c58db0e8c2af103d650fef5bb445180f91b7402e9afd463bb76ea16625b",
+    "size_in_bytes": 570
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/get_doc.py",
+    "path_type": "hardlink",
+    "sha256": "e9e21ccda04af75d785d6279242c18071f3c12497f00bfffa4fa2c0ccbc8a79f",
+    "sha256_in_prefix": "e9e21ccda04af75d785d6279242c18071f3c12497f00bfffa4fa2c0ccbc8a79f",
+    "size_in_bytes": 593
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "2df797ffd1055a9f9adc2a4b914eb6bf49b05e29cae2147d8af7a26bdc31f334",
+    "sha256_in_prefix": "2df797ffd1055a9f9adc2a4b914eb6bf49b05e29cae2147d8af7a26bdc31f334",
+    "size_in_bytes": 538
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "db29856f18fabc5668317681e00eacc85c7d3bb85f63c04d1ce4efebdc3b7e40",
+    "sha256_in_prefix": "db29856f18fabc5668317681e00eacc85c7d3bb85f63c04d1ce4efebdc3b7e40",
+    "size_in_bytes": 610
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/__pycache__/common.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "7c622c61cbf74ca99a222dd1578a61c727302c18f28d2e1cc9afd6c80d813b8c",
+    "sha256_in_prefix": "7c622c61cbf74ca99a222dd1578a61c727302c18f28d2e1cc9afd6c80d813b8c",
+    "size_in_bytes": 3620
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/__pycache__/ironpython_keysyms.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "ef40f35b7a748205f907082fa0bd20dc3df5c34a26f1751c69b4018a9279637c",
+    "sha256_in_prefix": "ef40f35b7a748205f907082fa0bd20dc3df5c34a26f1751c69b4018a9279637c",
+    "size_in_bytes": 4016
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/__pycache__/keysyms.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "721ba92ed700bd98e6a65efee1d310cffe74c95cca9b19d0f3ebe2308fb4bb7a",
+    "sha256_in_prefix": "721ba92ed700bd98e6a65efee1d310cffe74c95cca9b19d0f3ebe2308fb4bb7a",
+    "size_in_bytes": 3250
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/__pycache__/winconstants.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "1b8e6c67733f240686f958e398097a1be6502aef39be7feb3776374735dfaa88",
+    "sha256_in_prefix": "1b8e6c67733f240686f958e398097a1be6502aef39be7feb3776374735dfaa88",
+    "size_in_bytes": 3857
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/common.py",
+    "path_type": "hardlink",
+    "sha256": "ca1e64ff11c484eb1d5670f219b5ce76321ecf13be430cfadb09dec19b15cb25",
+    "sha256_in_prefix": "ca1e64ff11c484eb1d5670f219b5ce76321ecf13be430cfadb09dec19b15cb25",
+    "size_in_bytes": 5287
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/ironpython_keysyms.py",
+    "path_type": "hardlink",
+    "sha256": "da69077e95879a66fc4c555a00e8365ac1aa48d6c92803ab5a85b51ca0f815a9",
+    "sha256_in_prefix": "da69077e95879a66fc4c555a00e8365ac1aa48d6c92803ab5a85b51ca0f815a9",
+    "size_in_bytes": 7340
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/keysyms.py",
+    "path_type": "hardlink",
+    "sha256": "b2746c25111631b027029ada6540489f9bfbb5417115761760f3fdfe16d6662a",
+    "sha256_in_prefix": "b2746c25111631b027029ada6540489f9bfbb5417115761760f3fdfe16d6662a",
+    "size_in_bytes": 5386
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/keysyms/winconstants.py",
+    "path_type": "hardlink",
+    "sha256": "4ecf9f501a399f87f872c19a7d2a07f5dd7c7a6ead59d91c262ca028dd497476",
+    "sha256_in_prefix": "4ecf9f501a399f87f872c19a7d2a07f5dd7c7a6ead59d91c262ca028dd497476",
+    "size_in_bytes": 2789
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/lineeditor/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "8fc6a9f12b5fd531d8862a9bd62ae8f5173a4e46d588fa5114eb06eebc089509",
+    "sha256_in_prefix": "8fc6a9f12b5fd531d8862a9bd62ae8f5173a4e46d588fa5114eb06eebc089509",
+    "size_in_bytes": 74
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/lineeditor/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "ccb91b4cbb41662c21ac3c53dc12cde7c4057f53d061a9bd05366a5bec65aaee",
+    "sha256_in_prefix": "ccb91b4cbb41662c21ac3c53dc12cde7c4057f53d061a9bd05366a5bec65aaee",
+    "size_in_bytes": 240
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/lineeditor/__pycache__/history.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "671170f587ed874efd3a3aa6d416823aa5323e2edd66835728eaa492b84ea156",
+    "sha256_in_prefix": "671170f587ed874efd3a3aa6d416823aa5323e2edd66835728eaa492b84ea156",
+    "size_in_bytes": 8300
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/lineeditor/__pycache__/lineobj.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "e9b68f9e0359cd4bc9dacf4ff29bae92f6c606023fc3e59ae607093e143f24ab",
+    "sha256_in_prefix": "e9b68f9e0359cd4bc9dacf4ff29bae92f6c606023fc3e59ae607093e143f24ab",
+    "size_in_bytes": 27300
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/lineeditor/__pycache__/wordmatcher.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "8cc82f75072d52a4be911fb03f20ae33a6443989daa22319c7e9c6443b699270",
+    "sha256_in_prefix": "8cc82f75072d52a4be911fb03f20ae33a6443989daa22319c7e9c6443b699270",
+    "size_in_bytes": 4736
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/lineeditor/history.py",
+    "path_type": "hardlink",
+    "sha256": "983ba5141f873fd3cef7431b59b7edba42175779b47f44f4102745c6e03f5a26",
+    "sha256_in_prefix": "983ba5141f873fd3cef7431b59b7edba42175779b47f44f4102745c6e03f5a26",
+    "size_in_bytes": 10896
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/lineeditor/lineobj.py",
+    "path_type": "hardlink",
+    "sha256": "cf88775832f819f4beb7eb28a5ac996c79a554bf2155fa16a9e1f31f78452451",
+    "sha256_in_prefix": "cf88775832f819f4beb7eb28a5ac996c79a554bf2155fa16a9e1f31f78452451",
+    "size_in_bytes": 25790
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/lineeditor/wordmatcher.py",
+    "path_type": "hardlink",
+    "sha256": "7af77afd5a678be4b6d89d6533b272d120771644456b38525d22e6c77662cf3f",
+    "sha256_in_prefix": "7af77afd5a678be4b6d89d6533b272d120771644456b38525d22e6c77662cf3f",
+    "size_in_bytes": 3489
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/logger.py",
+    "path_type": "hardlink",
+    "sha256": "880975a7f942cd2d5179344ccea2dc813c242cf5bc99cf14e4580045a678b05d",
+    "sha256_in_prefix": "880975a7f942cd2d5179344ccea2dc813c242cf5bc99cf14e4580045a678b05d",
+    "size_in_bytes": 2193
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/logserver.py",
+    "path_type": "hardlink",
+    "sha256": "bff500a5025d4e30254d0cd0cc4e64bc7187ba14533481f917341a01b96a1fdd",
+    "sha256_in_prefix": "bff500a5025d4e30254d0cd0cc4e64bc7187ba14533481f917341a01b96a1fdd",
+    "size_in_bytes": 1611
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "5d7cceb9755d4e52a44a219f7dcdd443b216992acfc97355400cd416b3c395e9",
+    "sha256_in_prefix": "5d7cceb9755d4e52a44a219f7dcdd443b216992acfc97355400cd416b3c395e9",
+    "size_in_bytes": 269
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "39308382dc586d3df7782e1973ae62626ced6e0a5424919ca2e1a68b21f1664a",
+    "sha256_in_prefix": "39308382dc586d3df7782e1973ae62626ced6e0a5424919ca2e1a68b21f1664a",
+    "size_in_bytes": 403
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/__pycache__/basemode.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "6a8735bcb392b22498d9e5dcec2645a2fbf9d7e4f158213a53b1acfc5be8e7bb",
+    "sha256_in_prefix": "6a8735bcb392b22498d9e5dcec2645a2fbf9d7e4f158213a53b1acfc5be8e7bb",
+    "size_in_bytes": 20969
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/__pycache__/emacs.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "88ae9d65ae29b714836928283b4974ec662f13a62f6e95f99af05b017847468f",
+    "sha256_in_prefix": "88ae9d65ae29b714836928283b4974ec662f13a62f6e95f99af05b017847468f",
+    "size_in_bytes": 28016
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/__pycache__/notemacs.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "fd045a38eb2f6de635183ac14ac458e8a84294ee8dfdbfd14c77f81e01901cb1",
+    "sha256_in_prefix": "fd045a38eb2f6de635183ac14ac458e8a84294ee8dfdbfd14c77f81e01901cb1",
+    "size_in_bytes": 26822
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/__pycache__/vi.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "5b1e3c34cc3472ab2c81f13e615ded68294b6864113f2669d92bd46e9786d9e8",
+    "sha256_in_prefix": "5b1e3c34cc3472ab2c81f13e615ded68294b6864113f2669d92bd46e9786d9e8",
+    "size_in_bytes": 35286
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/basemode.py",
+    "path_type": "hardlink",
+    "sha256": "aab9a9bf5162590111123639d1422959fb1845419f5c0201757770ea6b5808b9",
+    "sha256_in_prefix": "aab9a9bf5162590111123639d1422959fb1845419f5c0201757770ea6b5808b9",
+    "size_in_bytes": 22018
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/emacs.py",
+    "path_type": "hardlink",
+    "sha256": "af843893104b6de824c02953f5550fcc063a41de39210a548c450bb7f554b544",
+    "sha256_in_prefix": "af843893104b6de824c02953f5550fcc063a41de39210a548c450bb7f554b544",
+    "size_in_bytes": 31758
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/notemacs.py",
+    "path_type": "hardlink",
+    "sha256": "77abd917e8cf9c766cd296543aa9816beb6c672e783fb05a7820ccb4584bd339",
+    "sha256_in_prefix": "77abd917e8cf9c766cd296543aa9816beb6c672e783fb05a7820ccb4584bd339",
+    "size_in_bytes": 25656
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/modes/vi.py",
+    "path_type": "hardlink",
+    "sha256": "aa2aa296db1ca036aee54230f65963b70a4486714978854cf28e96d75f5f1a00",
+    "sha256_in_prefix": "aa2aa296db1ca036aee54230f65963b70a4486714978854cf28e96d75f5f1a00",
+    "size_in_bytes": 41119
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/py3k_compat.py",
+    "path_type": "hardlink",
+    "sha256": "65f790aa6daf84cde227c45adbc0a2c348472b3753021ed842a4075475be8e97",
+    "sha256_in_prefix": "65f790aa6daf84cde227c45adbc0a2c348472b3753021ed842a4075475be8e97",
+    "size_in_bytes": 676
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/release.py",
+    "path_type": "hardlink",
+    "sha256": "15f3dba1a663a76ce982ef65c05b94097346d5360376247a2830afd0b3312a3b",
+    "sha256_in_prefix": "15f3dba1a663a76ce982ef65c05b94097346d5360376247a2830afd0b3312a3b",
+    "size_in_bytes": 3445
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/rlmain.py",
+    "path_type": "hardlink",
+    "sha256": "2021d07238abc8ab9b387e1968a1c994598e19758e14782ffb64cc6074c50b4a",
+    "sha256_in_prefix": "2021d07238abc8ab9b387e1968a1c994598e19758e14782ffb64cc6074c50b4a",
+    "size_in_bytes": 22396
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "8fc6a9f12b5fd531d8862a9bd62ae8f5173a4e46d588fa5114eb06eebc089509",
+    "sha256_in_prefix": "8fc6a9f12b5fd531d8862a9bd62ae8f5173a4e46d588fa5114eb06eebc089509",
+    "size_in_bytes": 74
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "279d1373f91477b3e31f3ebd8219fa7602d3c01a72c458285fa77107cdf86b9a",
+    "sha256_in_prefix": "279d1373f91477b3e31f3ebd8219fa7602d3c01a72c458285fa77107cdf86b9a",
+    "size_in_bytes": 234
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/__pycache__/common.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "beba0a3e6fabcae643183ef7aa6d91cefc8ab3fd4d2882abebe4612d840a0cd0",
+    "sha256_in_prefix": "beba0a3e6fabcae643183ef7aa6d91cefc8ab3fd4d2882abebe4612d840a0cd0",
+    "size_in_bytes": 3252
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/__pycache__/test_emacs.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "8ea6ec4f998cdf2dec3022f99d1f4370e15fcce5a94fa0b0f0c7ea2597c5edf1",
+    "sha256_in_prefix": "8ea6ec4f998cdf2dec3022f99d1f4370e15fcce5a94fa0b0f0c7ea2597c5edf1",
+    "size_in_bytes": 10624
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/__pycache__/test_history.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "a09088eb2fb125f2cde67c3c5059847cd688ae39ac5d45afaa46f2d05ae378b0",
+    "sha256_in_prefix": "a09088eb2fb125f2cde67c3c5059847cd688ae39ac5d45afaa46f2d05ae378b0",
+    "size_in_bytes": 5570
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/__pycache__/test_lineeditor.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "cc1fb4af68223e259cbd79410206a023b53646322473fcacf83901fda0f62ae3",
+    "sha256_in_prefix": "cc1fb4af68223e259cbd79410206a023b53646322473fcacf83901fda0f62ae3",
+    "size_in_bytes": 8712
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/__pycache__/test_vi.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "1a91e490ee286ad75b9bef8571c246ea517064a96f0475b98ff2cb29ba58ff5b",
+    "sha256_in_prefix": "1a91e490ee286ad75b9bef8571c246ea517064a96f0475b98ff2cb29ba58ff5b",
+    "size_in_bytes": 59410
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/common.py",
+    "path_type": "hardlink",
+    "sha256": "f15c812ff6ce352bfed6c92f3ad34afc11029c1063da456c03025f42c34325e6",
+    "sha256_in_prefix": "f15c812ff6ce352bfed6c92f3ad34afc11029c1063da456c03025f42c34325e6",
+    "size_in_bytes": 2434
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/test_emacs.py",
+    "path_type": "hardlink",
+    "sha256": "219b4112bd57bf296ee0c2491c8daf98ecf9f4bdfb48daba64669bf6bb94e23c",
+    "sha256_in_prefix": "219b4112bd57bf296ee0c2491c8daf98ecf9f4bdfb48daba64669bf6bb94e23c",
+    "size_in_bytes": 14148
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/test_history.py",
+    "path_type": "hardlink",
+    "sha256": "a0f92321b1fb9383bf28855f46d6aa6de8bee1c9759f12d4836b8f165f073490",
+    "sha256_in_prefix": "a0f92321b1fb9383bf28855f46d6aa6de8bee1c9759f12d4836b8f165f073490",
+    "size_in_bytes": 5180
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/test_lineeditor.py",
+    "path_type": "hardlink",
+    "sha256": "a3f254e0353682f22deaf76a922dac60d958a9c1229dde4a854921830b0424cc",
+    "sha256_in_prefix": "a3f254e0353682f22deaf76a922dac60d958a9c1229dde4a854921830b0424cc",
+    "size_in_bytes": 11867
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/test/test_vi.py",
+    "path_type": "hardlink",
+    "sha256": "343664503db8690c4cadafd8be2eb7652e40325536723c872d8f6106c9d4b94e",
+    "sha256_in_prefix": "343664503db8690c4cadafd8be2eb7652e40325536723c872d8f6106c9d4b94e",
+    "size_in_bytes": 79039
+   },
+   {
+    "_path": "Lib/site-packages/pyreadline/unicode_helper.py",
+    "path_type": "hardlink",
+    "sha256": "54c046ba09779419a431b76a7baea40f5a6709c8072937af574f287a30696223",
+    "sha256_in_prefix": "54c046ba09779419a431b76a7baea40f5a6709c8072937af574f287a30696223",
+    "size_in_bytes": 1670
+   },
+   {
+    "_path": "Lib/site-packages/readline.py",
+    "path_type": "hardlink",
+    "sha256": "9eb921b37a27e0014fbac34868d734ab671dc6b2267c007ed25c093ae83c12b1",
+    "sha256_in_prefix": "9eb921b37a27e0014fbac34868d734ab671dc6b2267c007ed25c093ae83c12b1",
+    "size_in_bytes": 2706
+   }
+  ],
+  "paths_version": 1
+ },
+ "requested_spec": "None",
+ "sha256": "dc5fa1c85d98775b6684f09f396873b43a7cdd350e62b5ec94ba2b2eb8e90370",
+ "size": 149464,
+ "subdir": "win-64",
+ "timestamp": 1636288781197,
+ "track_features": "",
+ "url": "https://conda.anaconda.org/conda-forge/win-64/pyreadline-2.1-py37h03978a9_1005.tar.bz2",
+ "version": "2.1"
+}

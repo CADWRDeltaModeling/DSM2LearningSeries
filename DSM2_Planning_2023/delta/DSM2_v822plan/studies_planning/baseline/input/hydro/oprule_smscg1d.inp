@@ -1,0 +1,12 @@
+# Description:
+# Gate Operating Rules for Montezuma Slough in Planning Mode
+# SMSCG modified as historical
+# operation season read from Calsim3 monthly, then processed to daily
+# 1-week op, 1 off, 1 op, rest off for operation month
+# 202212
+OPRULE_TIME_SERIES
+NAME        FILLIN FILE                PATH
+mscs_op     last   ${BOUNDARYFILE}     /CALSIM/SMSCG_OP/GATE-OP-RATIO//1DAY/${CALSIMSTUDY_MODIFIED}/
+END
+
+

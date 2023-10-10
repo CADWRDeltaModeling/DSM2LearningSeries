@@ -1,0 +1,118 @@
+{
+ "build": "py37h03978a9_3",
+ "build_number": 3,
+ "channel": "https://conda.anaconda.org/conda-forge/win-64",
+ "constrains": [],
+ "depends": [
+  "importlib-metadata",
+  "python >=3.7,<3.8.0a0",
+  "python_abi 3.7.* *_cp37m"
+ ],
+ "extracted_package_dir": "",
+ "features": "",
+ "files": [
+  "Lib/site-packages/__pycache__/inflect.cpython-37.pyc",
+  "Lib/site-packages/inflect-4.1.0.dist-info/INSTALLER",
+  "Lib/site-packages/inflect-4.1.0.dist-info/LICENSE",
+  "Lib/site-packages/inflect-4.1.0.dist-info/METADATA",
+  "Lib/site-packages/inflect-4.1.0.dist-info/RECORD",
+  "Lib/site-packages/inflect-4.1.0.dist-info/REQUESTED",
+  "Lib/site-packages/inflect-4.1.0.dist-info/WHEEL",
+  "Lib/site-packages/inflect-4.1.0.dist-info/direct_url.json",
+  "Lib/site-packages/inflect-4.1.0.dist-info/top_level.txt",
+  "Lib/site-packages/inflect.py"
+ ],
+ "fn": "inflect-4.1.0-py37h03978a9_3.tar.bz2",
+ "license": "MIT",
+ "license_family": "MIT",
+ "link": {
+  "source": "",
+  "type": 1
+ },
+ "md5": "abbabdb425b6194e8ab83a3eae520bf8",
+ "name": "inflect",
+ "package_tarball_full_path": "",
+ "paths_data": {
+  "paths": [
+   {
+    "_path": "Lib/site-packages/__pycache__/inflect.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "acc6b101362a2ae0df9336df68631dea9bb2e50b15d395b31a6ef82044525fb6",
+    "sha256_in_prefix": "acc6b101362a2ae0df9336df68631dea9bb2e50b15d395b31a6ef82044525fb6",
+    "size_in_bytes": 68144
+   },
+   {
+    "_path": "Lib/site-packages/inflect-4.1.0.dist-info/INSTALLER",
+    "path_type": "hardlink",
+    "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+    "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+    "size_in_bytes": 5
+   },
+   {
+    "_path": "Lib/site-packages/inflect-4.1.0.dist-info/LICENSE",
+    "path_type": "hardlink",
+    "sha256": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+    "sha256_in_prefix": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+    "size_in_bytes": 1050
+   },
+   {
+    "_path": "Lib/site-packages/inflect-4.1.0.dist-info/METADATA",
+    "path_type": "hardlink",
+    "sha256": "b714c8a3df45a3febcf40b834bb8dcaa9b336da82189400223bff34234130ba0",
+    "sha256_in_prefix": "b714c8a3df45a3febcf40b834bb8dcaa9b336da82189400223bff34234130ba0",
+    "size_in_bytes": 20727
+   },
+   {
+    "_path": "Lib/site-packages/inflect-4.1.0.dist-info/RECORD",
+    "path_type": "hardlink",
+    "sha256": "3d6959036c75d5cb3f2bf323b73f65739d097ff60267f3ff1e4aeeff292d6e96",
+    "sha256_in_prefix": "3d6959036c75d5cb3f2bf323b73f65739d097ff60267f3ff1e4aeeff292d6e96",
+    "size_in_bytes": 769
+   },
+   {
+    "_path": "Lib/site-packages/inflect-4.1.0.dist-info/REQUESTED",
+    "path_type": "hardlink",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size_in_bytes": 0
+   },
+   {
+    "_path": "Lib/site-packages/inflect-4.1.0.dist-info/WHEEL",
+    "path_type": "hardlink",
+    "sha256": "0f55a1d789160f13e7accfb9b7fe94081f94b9036b10e0ed45adef1783acbd06",
+    "sha256_in_prefix": "0f55a1d789160f13e7accfb9b7fe94081f94b9036b10e0ed45adef1783acbd06",
+    "size_in_bytes": 97
+   },
+   {
+    "_path": "Lib/site-packages/inflect-4.1.0.dist-info/direct_url.json",
+    "path_type": "hardlink",
+    "sha256": "3a32775bc04d3de132b040dd3a05679d64101e665a409ab05242d1e744593ca3",
+    "sha256_in_prefix": "3a32775bc04d3de132b040dd3a05679d64101e665a409ab05242d1e744593ca3",
+    "size_in_bytes": 68
+   },
+   {
+    "_path": "Lib/site-packages/inflect-4.1.0.dist-info/top_level.txt",
+    "path_type": "hardlink",
+    "sha256": "9b9dae8dda75d02a93ea38755d0c594fa9049ed727bfeed397b52218d4f35990",
+    "sha256_in_prefix": "9b9dae8dda75d02a93ea38755d0c594fa9049ed727bfeed397b52218d4f35990",
+    "size_in_bytes": 8
+   },
+   {
+    "_path": "Lib/site-packages/inflect.py",
+    "path_type": "hardlink",
+    "sha256": "66ebd49b82c0d80c0fc71d4211d6ba5b859aeef28cc0a43a17449d5634849f4c",
+    "sha256_in_prefix": "66ebd49b82c0d80c0fc71d4211d6ba5b859aeef28cc0a43a17449d5634849f4c",
+    "size_in_bytes": 98181
+   }
+  ],
+  "paths_version": 1
+ },
+ "requested_spec": "inflect=4.1.0",
+ "sha256": "7541babef51cee0886bb51b75fefc0bdb44c0ed8510fbf62398eeadbdca378b3",
+ "size": 58346,
+ "subdir": "win-64",
+ "timestamp": 1604584258537,
+ "track_features": "",
+ "url": "https://conda.anaconda.org/conda-forge/win-64/inflect-4.1.0-py37h03978a9_3.tar.bz2",
+ "version": "4.1.0"
+}

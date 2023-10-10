@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "Z:/test/notebook_dsm2plan/pydelmod_plan\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}

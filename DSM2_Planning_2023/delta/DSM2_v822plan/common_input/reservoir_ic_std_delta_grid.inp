@@ -1,0 +1,15 @@
+# Description:
+# NAVD
+# Standard Delta Configuration
+# 202104
+RESERVOIR_IC
+RES_NAME  STAGE  
+little_franks_tract 5.000     
+clifton_court       5.000     
+discovery_bay       5.000     
+franks_tract        5.000     
+liberty             7.000     
+mildred             5.000     
+END
+
+

@@ -1,0 +1,100 @@
+{
+ "build": "py_0",
+ "build_number": 0,
+ "channel": "https://conda.anaconda.org/conda-forge/noarch",
+ "constrains": [],
+ "depends": [
+  "jaraco.itertools",
+  "python >=3.6"
+ ],
+ "extracted_package_dir": "",
+ "features": "",
+ "files": [
+  "Lib/site-packages/zipp-2.1.0.dist-info/INSTALLER",
+  "Lib/site-packages/zipp-2.1.0.dist-info/LICENSE",
+  "Lib/site-packages/zipp-2.1.0.dist-info/METADATA",
+  "Lib/site-packages/zipp-2.1.0.dist-info/RECORD",
+  "Lib/site-packages/zipp-2.1.0.dist-info/WHEEL",
+  "Lib/site-packages/zipp-2.1.0.dist-info/top_level.txt",
+  "Lib/site-packages/zipp.py",
+  "Lib/site-packages/__pycache__/zipp.cpython-37.pyc"
+ ],
+ "fn": "zipp-2.1.0-py_0.tar.bz2",
+ "license": "MIT",
+ "license_family": "MIT",
+ "link": {
+  "source": "",
+  "type": 1
+ },
+ "md5": "191ae831d77d1af9b9daa6fbdec2008f",
+ "name": "zipp",
+ "noarch": "python",
+ "package_tarball_full_path": "",
+ "package_type": "noarch_python",
+ "paths_data": {
+  "paths": [
+   {
+    "_path": "site-packages/zipp-2.1.0.dist-info/INSTALLER",
+    "path_type": "hardlink",
+    "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+    "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+    "size_in_bytes": 5
+   },
+   {
+    "_path": "site-packages/zipp-2.1.0.dist-info/LICENSE",
+    "path_type": "hardlink",
+    "sha256": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+    "sha256_in_prefix": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+    "size_in_bytes": 1050
+   },
+   {
+    "_path": "site-packages/zipp-2.1.0.dist-info/METADATA",
+    "path_type": "hardlink",
+    "sha256": "39145bac656ec775b380c4a6e694faebf3b1fb5b55f3ce82762df7e45043f6be",
+    "sha256_in_prefix": "39145bac656ec775b380c4a6e694faebf3b1fb5b55f3ce82762df7e45043f6be",
+    "size_in_bytes": 1796
+   },
+   {
+    "_path": "site-packages/zipp-2.1.0.dist-info/RECORD",
+    "path_type": "hardlink",
+    "sha256": "f4987f79b2e39fd53c606fe8896c9ee42187a5891b06f578fd9b1ab5b659079e",
+    "sha256_in_prefix": "f4987f79b2e39fd53c606fe8896c9ee42187a5891b06f578fd9b1ab5b659079e",
+    "size_in_bytes": 560
+   },
+   {
+    "_path": "site-packages/zipp-2.1.0.dist-info/WHEEL",
+    "path_type": "hardlink",
+    "sha256": "a78ebfe54873ab3e80cde4a8b223a7c4afb39858dad62db60ab4028e661ef1e7",
+    "sha256_in_prefix": "a78ebfe54873ab3e80cde4a8b223a7c4afb39858dad62db60ab4028e661ef1e7",
+    "size_in_bytes": 92
+   },
+   {
+    "_path": "site-packages/zipp-2.1.0.dist-info/top_level.txt",
+    "path_type": "hardlink",
+    "sha256": "8806dda121df686a817d56f65ee47d26a4901c2a0eb0eb46eb2f42fcb4a9a85c",
+    "sha256_in_prefix": "8806dda121df686a817d56f65ee47d26a4901c2a0eb0eb46eb2f42fcb4a9a85c",
+    "size_in_bytes": 5
+   },
+   {
+    "_path": "site-packages/zipp.py",
+    "path_type": "hardlink",
+    "sha256": "89fc7139ecca2ff79032a2585a16c19c4ecf20aee8be5bf4d983c4e01bb97836",
+    "sha256_in_prefix": "89fc7139ecca2ff79032a2585a16c19c4ecf20aee8be5bf4d983c4e01bb97836",
+    "size_in_bytes": 6339
+   },
+   {
+    "_path": "Lib/site-packages/__pycache__/zipp.cpython-37.pyc",
+    "path_type": "pyc_file"
+   }
+  ],
+  "paths_version": 1
+ },
+ "requested_spec": "zipp=2.1.0",
+ "sha256": "fddbec2bca6dd548f7aebc2003c5fd2c68d93ddc3a5cbe194245df7759711c6e",
+ "size": 9569,
+ "subdir": "noarch",
+ "timestamp": 1580092030520,
+ "track_features": "",
+ "url": "https://conda.anaconda.org/conda-forge/noarch/zipp-2.1.0-py_0.tar.bz2",
+ "version": "2.1.0"
+}

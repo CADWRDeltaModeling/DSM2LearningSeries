@@ -1,0 +1,12 @@
+prefix=Z:/test/notebook_dsm2plan/pydelmod_plan/Library
+exec_prefix=Z:/test/notebook_dsm2plan/pydelmod_plan/Library
+libdir=Z:/test/notebook_dsm2plan/pydelmod_plan/Library/lib
+includedir=Z:/test/notebook_dsm2plan/pydelmod_plan/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.1
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

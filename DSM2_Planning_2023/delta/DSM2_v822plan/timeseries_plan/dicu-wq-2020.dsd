@@ -1,0 +1,1042 @@
+
+     HECDSS Condensed Catalog of Record Pathnames in File ../../timeseries_plan/dicu-wq-2020.dss
+
+     Catalog Created on Jun 4, 2023 at 23:34     File Created on Dec 12, 2019
+     Number of Records:   1033                   DSS Version 6-QE,  File 6-QF
+     Sort Order: ABCFED
+
+ Tag   A Part          B Part  C Part        F Part   E Part  D Part
+
+ T1    DERIVED         1       DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T245  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T2    - - - - - - -   10      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T246  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T3    - - - - - - -   100     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T247  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T4    - - - - - - -   104     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T248  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T5    - - - - - - -   105     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T249  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T6    - - - - - - -   106     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T250  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T7    - - - - - - -   107     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T251  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T8    - - - - - - -   108     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T252  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T9    - - - - - - -   109     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T253  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T10   - - - - - - -   11      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T254  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T11   - - - - - - -   110     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T255  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T12   - - - - - - -   111     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T256  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T13   - - - - - - -   112     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T257  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T14   - - - - - - -   113     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T258  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T15   - - - - - - -   114     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T259  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T16   - - - - - - -   115     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T260  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T17   - - - - - - -   116     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T261  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T18   - - - - - - -   117     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T262  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T19   - - - - - - -   118     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T263  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T20   - - - - - - -   119     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T264  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T21   - - - - - - -   12      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T265  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T22   - - - - - - -   121     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T266  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T23   - - - - - - -   122     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T267  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T24   - - - - - - -   124     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T268  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T25   - - - - - - -   125     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T269  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T26   - - - - - - -   126     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T270  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T27   - - - - - - -   127     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T271  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T28   - - - - - - -   128     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T272  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T29   - - - - - - -   13      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T273  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T30   - - - - - - -   130     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T274  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T31   - - - - - - -   133     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T275  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T32   - - - - - - -   135     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T276  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T33   - - - - - - -   136     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T277  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T34   - - - - - - -   137     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T278  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T35   - - - - - - -   138     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T279  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T36   - - - - - - -   139     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T280  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T37   - - - - - - -   14      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T281  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T38   - - - - - - -   140     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T282  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T39   - - - - - - -   141     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T283  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T40   - - - - - - -   142     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T284  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T41   - - - - - - -   143     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T285  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T42   - - - - - - -   144     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T286  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T43   - - - - - - -   145     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T287  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T44   - - - - - - -   146     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T288  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T45   - - - - - - -   147     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T289  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T46   - - - - - - -   148     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T290  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T47   - - - - - - -   149     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T291  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T48   - - - - - - -   15      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T292  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T49   - - - - - - -   150     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T293  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T50   - - - - - - -   151     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T294  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T51   - - - - - - -   152     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T295  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T52   - - - - - - -   153     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T296  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T53   - - - - - - -   155     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T297  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T54   - - - - - - -   156     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T298  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T55   - - - - - - -   158     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T299  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T56   - - - - - - -   159     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T300  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T57   - - - - - - -   16      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T301  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T58   - - - - - - -   162     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T302  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T59   - - - - - - -   163     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T303  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T60   - - - - - - -   164     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T304  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T61   - - - - - - -   165     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T305  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T62   - - - - - - -   167     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T306  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T63   - - - - - - -   168     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T307  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T64   - - - - - - -   169     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T308  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T65   - - - - - - -   170     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T309  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T66   - - - - - - -   171     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T310  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T67   - - - - - - -   172     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T311  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T68   - - - - - - -   173     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T312  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T69   - - - - - - -   174     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T313  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T70   - - - - - - -   175     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T314  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T71   - - - - - - -   176     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T315  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T72   - - - - - - -   177     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T316  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T73   - - - - - - -   178     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T317  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T74   - - - - - - -   179     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T318  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T75   - - - - - - -   18      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T319  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T76   - - - - - - -   182     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T320  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T77   - - - - - - -   183     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T321  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T78   - - - - - - -   187     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T322  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T79   - - - - - - -   188     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T323  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T80   - - - - - - -   189     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T324  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T81   - - - - - - -   19      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T325  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T82   - - - - - - -   190     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T326  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T83   - - - - - - -   191     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T327  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T84   - - - - - - -   192     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T328  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T85   - - - - - - -   194     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T329  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T86   - - - - - - -   195     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T330  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T87   - - - - - - -   196     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T331  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T88   - - - - - - -   197     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T332  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T89   - - - - - - -   198     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T333  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T90   - - - - - - -   199     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T334  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T91   - - - - - - -   20      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T335  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T92   - - - - - - -   200     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T336  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T93   - - - - - - -   201     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T337  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T94   - - - - - - -   202     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T338  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T95   - - - - - - -   203     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T339  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T96   - - - - - - -   204     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T340  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T97   - - - - - - -   205     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T341  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T98   - - - - - - -   206     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T342  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T99   - - - - - - -   209     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T343  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T100  - - - - - - -   21      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T344  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T101  - - - - - - -   210     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T345  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T102  - - - - - - -   211     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T346  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T103  - - - - - - -   212     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T347  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T104  - - - - - - -   213     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T348  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T105  - - - - - - -   215     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T349  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T106  - - - - - - -   216     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T350  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T107  - - - - - - -   219     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T351  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T108  - - - - - - -   22      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T352  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T109  - - - - - - -   222     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T353  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T110  - - - - - - -   223     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T354  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T111  - - - - - - -   224     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T355  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T112  - - - - - - -   226     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T356  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T113  - - - - - - -   23      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T357  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T114  - - - - - - -   232     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T358  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T115  - - - - - - -   24      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T359  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T116  - - - - - - -   240     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T360  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T117  - - - - - - -   241     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T361  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T118  - - - - - - -   242     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T362  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T119  - - - - - - -   243     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T363  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T120  - - - - - - -   245     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T364  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T121  - - - - - - -   246     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T365  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T122  - - - - - - -   247     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T366  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T123  - - - - - - -   25      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T367  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T124  - - - - - - -   250     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T368  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T125  - - - - - - -   251     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T369  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T126  - - - - - - -   253     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T370  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T127  - - - - - - -   255     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T371  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T128  - - - - - - -   256     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T372  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T129  - - - - - - -   257     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T373  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T130  - - - - - - -   26      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T374  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T131  - - - - - - -   260     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T375  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T132  - - - - - - -   262     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T376  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T133  - - - - - - -   264     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T377  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T134  - - - - - - -   266     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T378  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T135  - - - - - - -   268     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T379  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T136  - - - - - - -   269     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T380  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T137  - - - - - - -   271     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T381  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T138  - - - - - - -   274     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T382  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T139  - - - - - - -   276     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T383  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T140  - - - - - - -   278     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T384  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T141  - - - - - - -   280     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T385  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T142  - - - - - - -   282     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T386  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T143  - - - - - - -   284     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T387  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T144  - - - - - - -   286     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T388  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T145  - - - - - - -   288     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T389  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T146  - - - - - - -   29      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T390  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T147  - - - - - - -   290     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T391  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T148  - - - - - - -   292     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T392  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T149  - - - - - - -   294     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T393  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T150  - - - - - - -   296     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T394  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T151  - - - - - - -   297     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T395  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T152  - - - - - - -   298     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T396  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T153  - - - - - - -   299     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T397  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T154  - - - - - - -   3       DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T398  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T155  - - - - - - -   30      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T399  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T156  - - - - - - -   301     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T400  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T157  - - - - - - -   302     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T401  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T158  - - - - - - -   303     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T402  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T159  - - - - - - -   304     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T403  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T160  - - - - - - -   305     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T404  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T161  - - - - - - -   306     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T405  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T162  - - - - - - -   307     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T406  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T163  - - - - - - -   308     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T407  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T164  - - - - - - -   310     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T408  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T165  - - - - - - -   311     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T409  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T166  - - - - - - -   312     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T410  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T167  - - - - - - -   314     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T411  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T168  - - - - - - -   315     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T412  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T169  - - - - - - -   316     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T413  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T170  - - - - - - -   317     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T414  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T171  - - - - - - -   318     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T415  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T172  - - - - - - -   319     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T416  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T173  - - - - - - -   32      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T417  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T174  - - - - - - -   320     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T418  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T175  - - - - - - -   321     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T419  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T176  - - - - - - -   326     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T420  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T177  - - - - - - -   330     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T421  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T178  - - - - - - -   331     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T422  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T179  - - - - - - -   332     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T423  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T180  - - - - - - -   333     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T424  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T181  - - - - - - -   334     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T425  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T182  - - - - - - -   335     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T426  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T183  - - - - - - -   336     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T427  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T184  - - - - - - -   337     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T428  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T185  - - - - - - -   338     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T429  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T186  - - - - - - -   339     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T430  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T187  - - - - - - -   340     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T431  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T188  - - - - - - -   341     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T432  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T189  - - - - - - -   342     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T433  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T190  - - - - - - -   343     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T434  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T191  - - - - - - -   344     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T435  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T192  - - - - - - -   346     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T436  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T193  - - - - - - -   347     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T437  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T194  - - - - - - -   348     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T438  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T195  - - - - - - -   35      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T439  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T196  - - - - - - -   350     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T440  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T197  - - - - - - -   351     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T441  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T198  - - - - - - -   352     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T442  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T199  - - - - - - -   353     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T443  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T200  - - - - - - -   354     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T444  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T201  - - - - - - -   355     DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T445  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T202  - - - - - - -   38      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T446  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T203  - - - - - - -   39      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T447  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T204  - - - - - - -   40      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T448  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T205  - - - - - - -   41      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T449  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T206  - - - - - - -   42      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T450  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T207  - - - - - - -   43      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T451  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T208  - - - - - - -   44      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T452  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T209  - - - - - - -   45      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T453  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T210  - - - - - - -   46      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T454  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T211  - - - - - - -   47      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T455  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T212  - - - - - - -   48      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T456  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T213  - - - - - - -   49      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T457  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T214  - - - - - - -   5       DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T458  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T215  - - - - - - -   50      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T459  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T216  - - - - - - -   51      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T460  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T217  - - - - - - -   52      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T461  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T218  - - - - - - -   53      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T462  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T219  - - - - - - -   54      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T463  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T220  - - - - - - -   55      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T464  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T221  - - - - - - -   56      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T465  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T222  - - - - - - -   58      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T466  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T223  - - - - - - -   59      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T467  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T224  - - - - - - -   6       DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T468  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T225  - - - - - - -   60      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T469  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T226  - - - - - - -   61      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T470  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T227  - - - - - - -   62      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T471  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T228  - - - - - - -   63      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T472  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T229  - - - - - - -   64      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T473  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T230  - - - - - - -   65      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T474  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T231  - - - - - - -   66      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T475  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T232  - - - - - - -   67      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T476  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T233  - - - - - - -   68      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T477  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T234  - - - - - - -   69      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T478  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T235  - - - - - - -   7       DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T479  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T236  - - - - - - -   70      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T480  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T237  - - - - - - -   71      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T481  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T238  - - - - - - -   72      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T482  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T239  - - - - - - -   73      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T483  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T240  - - - - - - -   74      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T484  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T241  - - - - - - -   75      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T485  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T242  - - - - - - -   77      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T486  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T243  - - - - - - -   78      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T487  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T244  - - - - - - -   79      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T488  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T489  - - - - - - -   8       DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T503  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T490  - - - - - - -   80      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T504  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T491  - - - - - - -   81      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T505  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T492  - - - - - - -   82      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T506  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T493  - - - - - - -   84      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T507  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T494  - - - - - - -   85      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T508  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T495  - - - - - - -   86      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T509  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T496  - - - - - - -   89      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T510  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T497  - - - - - - -   9       DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T511  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T498  - - - - - - -   91      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T512  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T499  - - - - - - -   92      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T513  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T500  - - - - - - -   93      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T514  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T501  - - - - - - -   98      DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T515  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T502  - - - - - - -   BBID    DRAIN-DOC     DWR-DMS  1MON    01JAN3000
+ T516  - - - - - - -   - - -   DRAIN-DOC-AG  DWR-DMS  1MON    01JAN3000
+ T1    DICU-HIST+NODE  1       DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T2    - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T3    - - - - - - -   10      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T4    - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T5    - - - - - - -   100     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T6    - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T7    - - - - - - -   104     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T8    - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T9    - - - - - - -   105     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T10   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T11   - - - - - - -   106     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T12   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T13   - - - - - - -   107     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T14   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T15   - - - - - - -   108     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T16   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T17   - - - - - - -   109     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T18   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T19   - - - - - - -   11      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T20   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T21   - - - - - - -   110     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T22   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T23   - - - - - - -   111     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T24   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T25   - - - - - - -   112     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T26   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T27   - - - - - - -   113     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T28   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T29   - - - - - - -   114     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T30   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T31   - - - - - - -   115     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T32   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T33   - - - - - - -   116     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T34   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T35   - - - - - - -   117     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T36   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T37   - - - - - - -   118     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T38   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T39   - - - - - - -   119     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T40   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T41   - - - - - - -   12      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T42   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T43   - - - - - - -   121     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T44   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T45   - - - - - - -   122     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T46   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T47   - - - - - - -   124     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T48   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T49   - - - - - - -   125     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T50   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T51   - - - - - - -   126     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T52   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T53   - - - - - - -   127     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T54   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T55   - - - - - - -   128     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T56   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T57   - - - - - - -   13      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T58   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T59   - - - - - - -   130     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T60   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T61   - - - - - - -   133     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T62   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T63   - - - - - - -   135     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T64   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T65   - - - - - - -   136     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T66   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T67   - - - - - - -   137     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T68   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T69   - - - - - - -   138     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T70   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T71   - - - - - - -   139     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T72   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T73   - - - - - - -   14      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T74   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T75   - - - - - - -   140     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T76   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T77   - - - - - - -   141     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T78   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T79   - - - - - - -   142     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T80   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T81   - - - - - - -   143     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T82   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T83   - - - - - - -   144     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T84   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T85   - - - - - - -   145     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T86   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T87   - - - - - - -   146     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T88   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T89   - - - - - - -   147     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T90   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T91   - - - - - - -   148     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T92   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T93   - - - - - - -   149     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T94   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T95   - - - - - - -   15      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T96   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T97   - - - - - - -   150     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T98   - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T99   - - - - - - -   151     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T100  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T101  - - - - - - -   152     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T102  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T103  - - - - - - -   153     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T104  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T105  - - - - - - -   155     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T106  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T107  - - - - - - -   156     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T108  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T109  - - - - - - -   158     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T110  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T111  - - - - - - -   159     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T112  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T113  - - - - - - -   16      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T114  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T115  - - - - - - -   162     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T116  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T117  - - - - - - -   163     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T118  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T119  - - - - - - -   164     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T120  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T121  - - - - - - -   165     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T122  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T123  - - - - - - -   167     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T124  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T125  - - - - - - -   168     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T126  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T127  - - - - - - -   169     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T128  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T129  - - - - - - -   170     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T130  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T131  - - - - - - -   171     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T132  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T133  - - - - - - -   172     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T134  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T135  - - - - - - -   173     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T136  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T137  - - - - - - -   174     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T138  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T139  - - - - - - -   175     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T140  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T141  - - - - - - -   176     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T142  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T143  - - - - - - -   177     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T144  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T145  - - - - - - -   178     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T146  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T147  - - - - - - -   179     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T148  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T149  - - - - - - -   18      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T150  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T151  - - - - - - -   182     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T152  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T153  - - - - - - -   183     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T154  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T155  - - - - - - -   187     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T156  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T157  - - - - - - -   188     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T158  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T159  - - - - - - -   189     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T160  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T161  - - - - - - -   19      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T162  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T163  - - - - - - -   190     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T164  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T165  - - - - - - -   191     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T166  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T167  - - - - - - -   192     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T168  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T169  - - - - - - -   194     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T170  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T171  - - - - - - -   195     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T172  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T173  - - - - - - -   196     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T174  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T175  - - - - - - -   197     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T176  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T177  - - - - - - -   198     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T178  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T179  - - - - - - -   199     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T180  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T181  - - - - - - -   20      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T182  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T183  - - - - - - -   200     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T184  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T185  - - - - - - -   201     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T186  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T187  - - - - - - -   202     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T188  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T189  - - - - - - -   203     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T190  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T191  - - - - - - -   204     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T192  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T193  - - - - - - -   205     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T194  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T195  - - - - - - -   206     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T196  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T197  - - - - - - -   209     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T198  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T199  - - - - - - -   21      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T200  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T201  - - - - - - -   210     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T202  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T203  - - - - - - -   211     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T204  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T205  - - - - - - -   212     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T206  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T207  - - - - - - -   213     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T208  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T209  - - - - - - -   215     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T210  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T211  - - - - - - -   216     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T212  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T213  - - - - - - -   219     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T214  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T215  - - - - - - -   22      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T216  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T217  - - - - - - -   222     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T218  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T219  - - - - - - -   223     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T220  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T221  - - - - - - -   224     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T222  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T223  - - - - - - -   226     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T224  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T225  - - - - - - -   23      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T226  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T227  - - - - - - -   232     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T228  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T229  - - - - - - -   24      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T230  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T231  - - - - - - -   240     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T232  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T233  - - - - - - -   241     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T234  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T235  - - - - - - -   242     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T236  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T237  - - - - - - -   243     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T238  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T239  - - - - - - -   245     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T240  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T241  - - - - - - -   246     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T242  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T243  - - - - - - -   247     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T244  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T245  - - - - - - -   25      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T246  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T247  - - - - - - -   250     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T248  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T249  - - - - - - -   251     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T250  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T251  - - - - - - -   253     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T252  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T253  - - - - - - -   255     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T254  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T255  - - - - - - -   256     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T256  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T257  - - - - - - -   257     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T258  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T259  - - - - - - -   26      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T260  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T261  - - - - - - -   260     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T262  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T263  - - - - - - -   262     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T264  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T265  - - - - - - -   264     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T266  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T267  - - - - - - -   266     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T268  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T269  - - - - - - -   268     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T270  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T271  - - - - - - -   269     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T272  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T273  - - - - - - -   271     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T274  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T275  - - - - - - -   274     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T276  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T277  - - - - - - -   276     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T278  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T279  - - - - - - -   278     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T280  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T281  - - - - - - -   280     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T282  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T283  - - - - - - -   282     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T284  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T285  - - - - - - -   284     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T286  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T287  - - - - - - -   286     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T288  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T289  - - - - - - -   288     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T290  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T291  - - - - - - -   29      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T292  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T293  - - - - - - -   290     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T294  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T295  - - - - - - -   292     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T296  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T297  - - - - - - -   294     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T298  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T299  - - - - - - -   296     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T300  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T301  - - - - - - -   297     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T302  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T303  - - - - - - -   298     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T304  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T305  - - - - - - -   299     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T306  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T307  - - - - - - -   3       DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T308  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T309  - - - - - - -   30      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T310  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T311  - - - - - - -   301     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T312  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T313  - - - - - - -   302     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T314  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T315  - - - - - - -   303     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T316  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T317  - - - - - - -   304     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T318  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T319  - - - - - - -   305     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T320  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T321  - - - - - - -   306     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T322  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T323  - - - - - - -   307     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T324  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T325  - - - - - - -   308     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T326  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T327  - - - - - - -   310     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T328  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T329  - - - - - - -   311     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T330  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T331  - - - - - - -   312     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T332  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T333  - - - - - - -   314     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T334  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T335  - - - - - - -   315     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T336  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T337  - - - - - - -   316     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T338  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T339  - - - - - - -   317     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T340  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T341  - - - - - - -   318     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T342  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T343  - - - - - - -   319     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T344  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T345  - - - - - - -   32      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T346  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T347  - - - - - - -   320     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T348  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T349  - - - - - - -   321     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T350  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T351  - - - - - - -   326     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T352  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T353  - - - - - - -   330     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T354  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T355  - - - - - - -   331     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T356  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T357  - - - - - - -   332     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T358  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T359  - - - - - - -   333     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T360  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T361  - - - - - - -   334     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T362  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T363  - - - - - - -   335     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T364  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T365  - - - - - - -   336     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T366  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T367  - - - - - - -   337     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T368  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T369  - - - - - - -   338     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T370  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T371  - - - - - - -   339     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T372  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T373  - - - - - - -   340     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T374  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T375  - - - - - - -   341     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T376  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T377  - - - - - - -   342     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T378  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T379  - - - - - - -   343     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T380  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T381  - - - - - - -   344     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T382  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T383  - - - - - - -   346     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T384  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T385  - - - - - - -   347     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T386  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T387  - - - - - - -   348     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T388  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T389  - - - - - - -   35      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T390  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T391  - - - - - - -   350     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T392  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T393  - - - - - - -   351     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T394  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T395  - - - - - - -   352     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T396  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T397  - - - - - - -   353     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T398  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T399  - - - - - - -   354     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T400  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T401  - - - - - - -   355     DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T402  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T403  - - - - - - -   38      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T404  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T405  - - - - - - -   39      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T406  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T427  - - - - - - -   4       DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T407  - - - - - - -   40      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T408  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T409  - - - - - - -   41      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T410  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T411  - - - - - - -   42      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T412  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T413  - - - - - - -   43      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T414  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T415  - - - - - - -   44      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T416  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T417  - - - - - - -   45      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T418  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T419  - - - - - - -   46      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T420  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T421  - - - - - - -   47      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T422  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T423  - - - - - - -   48      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T424  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T425  - - - - - - -   49      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T426  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T427  - - - - - - -   5       DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T428  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T429  - - - - - - -   50      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T430  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T431  - - - - - - -   51      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T432  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T433  - - - - - - -   52      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T434  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T435  - - - - - - -   53      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T436  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T437  - - - - - - -   54      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T438  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T439  - - - - - - -   55      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T440  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T441  - - - - - - -   56      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T442  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T443  - - - - - - -   58      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T444  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T445  - - - - - - -   59      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T446  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T447  - - - - - - -   6       DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T448  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T449  - - - - - - -   60      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T450  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T451  - - - - - - -   61      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T452  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T453  - - - - - - -   62      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T454  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T455  - - - - - - -   63      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T456  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T457  - - - - - - -   64      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T458  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T459  - - - - - - -   65      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T460  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T461  - - - - - - -   66      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T462  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T463  - - - - - - -   67      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T464  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T465  - - - - - - -   68      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T466  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T467  - - - - - - -   69      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T468  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T469  - - - - - - -   7       DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T470  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T471  - - - - - - -   70      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T472  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T473  - - - - - - -   71      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T474  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T475  - - - - - - -   72      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T476  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T477  - - - - - - -   73      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T478  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T479  - - - - - - -   74      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T480  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T481  - - - - - - -   75      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T482  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T483  - - - - - - -   77      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T484  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T485  - - - - - - -   78      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T486  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T487  - - - - - - -   79      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T488  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T489  - - - - - - -   8       DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T490  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T491  - - - - - - -   80      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T492  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T493  - - - - - - -   81      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T494  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T495  - - - - - - -   82      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T496  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T497  - - - - - - -   84      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T498  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T499  - - - - - - -   85      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T500  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T501  - - - - - - -   86      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T502  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T503  - - - - - - -   89      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T504  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T505  - - - - - - -   9       DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T506  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T507  - - - - - - -   91      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T508  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T509  - - - - - - -   92      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T510  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T511  - - - - - - -   93      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T512  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T513  - - - - - - -   98      DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T514  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000
+ T515  DICU-HIST+RSVR  BBID    DRAIN-EC      DWR-BDO  1MON    01JAN3000
+ T516  - - - - - - -   - - -   DRAIN-EC-AG   DWR-BDO  1MON    01JAN3000

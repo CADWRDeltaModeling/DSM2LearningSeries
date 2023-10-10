@@ -1,0 +1,187 @@
+{
+ "build": "py37h812ae01_0",
+ "build_number": 0,
+ "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+ "constrains": [],
+ "depends": [
+  "cftime",
+  "hdf5 >=1.10.4,<1.10.5.0a0",
+  "libnetcdf >=4.6.1,<4.7.0a0",
+  "numpy >=1.11.3,<2.0a0",
+  "python >=3.7,<3.8.0a0",
+  "setuptools",
+  "vc >=14.1,<15.0a0"
+ ],
+ "extracted_package_dir": "",
+ "features": "",
+ "files": [
+  "Lib/site-packages/netCDF4-1.4.2.dist-info/COPYING",
+  "Lib/site-packages/netCDF4-1.4.2.dist-info/INSTALLER",
+  "Lib/site-packages/netCDF4-1.4.2.dist-info/METADATA",
+  "Lib/site-packages/netCDF4-1.4.2.dist-info/RECORD",
+  "Lib/site-packages/netCDF4-1.4.2.dist-info/WHEEL",
+  "Lib/site-packages/netCDF4-1.4.2.dist-info/entry_points.txt",
+  "Lib/site-packages/netCDF4-1.4.2.dist-info/top_level.txt",
+  "Lib/site-packages/netCDF4/__init__.py",
+  "Lib/site-packages/netCDF4/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/netCDF4/__pycache__/utils.cpython-37.pyc",
+  "Lib/site-packages/netCDF4/_netCDF4.cp37-win_amd64.pyd",
+  "Lib/site-packages/netCDF4/utils.py",
+  "Scripts/nc3tonc4-script.py",
+  "Scripts/nc3tonc4.exe",
+  "Scripts/nc4tonc3-script.py",
+  "Scripts/nc4tonc3.exe",
+  "Scripts/ncinfo-script.py",
+  "Scripts/ncinfo.exe"
+ ],
+ "fn": "netcdf4-1.4.2-py37h812ae01_0.conda",
+ "legacy_bz2_md5": "465f766c23cd9e8675cfe9adfb0cb21d",
+ "legacy_bz2_size": 397661,
+ "license": "OSI Approved and MIT",
+ "link": {
+  "source": "",
+  "type": 1
+ },
+ "md5": "19a116bcee5161910fd25e2c63e5eff0",
+ "name": "netcdf4",
+ "package_tarball_full_path": "",
+ "paths_data": {
+  "paths": [
+   {
+    "_path": "Lib/site-packages/netCDF4-1.4.2.dist-info/COPYING",
+    "path_type": "hardlink",
+    "sha256": "645d8d05548dd825d032af5782a00545925699e2ce7a6cbcea592ab8178cd215",
+    "sha256_in_prefix": "645d8d05548dd825d032af5782a00545925699e2ce7a6cbcea592ab8178cd215",
+    "size_in_bytes": 1366
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4-1.4.2.dist-info/INSTALLER",
+    "path_type": "hardlink",
+    "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+    "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+    "size_in_bytes": 4
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4-1.4.2.dist-info/METADATA",
+    "path_type": "hardlink",
+    "sha256": "8264056cdf802226924aa84f44d1313c9228615e0b9ad605a6bf2cf1f0729fc9",
+    "sha256_in_prefix": "8264056cdf802226924aa84f44d1313c9228615e0b9ad605a6bf2cf1f0729fc9",
+    "size_in_bytes": 1704
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4-1.4.2.dist-info/RECORD",
+    "path_type": "hardlink",
+    "sha256": "9526e7419ac87f7533d04e8d13cd47701b6fc3e91020dc9bba865e09de2c514d",
+    "sha256_in_prefix": "9526e7419ac87f7533d04e8d13cd47701b6fc3e91020dc9bba865e09de2c514d",
+    "size_in_bytes": 1169
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4-1.4.2.dist-info/WHEEL",
+    "path_type": "hardlink",
+    "sha256": "aa9255273ddffe88a1e6c6f5d0256877d8c275d1f0c629738993e7d01f2d8054",
+    "sha256_in_prefix": "aa9255273ddffe88a1e6c6f5d0256877d8c275d1f0c629738993e7d01f2d8054",
+    "size_in_bytes": 106
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4-1.4.2.dist-info/entry_points.txt",
+    "path_type": "hardlink",
+    "sha256": "48e680d62a2292e107aefd8d9f1614ec105576ce59cc134e2d60392cdde9e589",
+    "sha256_in_prefix": "48e680d62a2292e107aefd8d9f1614ec105576ce59cc134e2d60392cdde9e589",
+    "size_in_bytes": 117
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4-1.4.2.dist-info/top_level.txt",
+    "path_type": "hardlink",
+    "sha256": "b2d61b24f7075840abac53f036de136767640268c5ccd776f527394f416425fb",
+    "sha256_in_prefix": "b2d61b24f7075840abac53f036de136767640268c5ccd776f527394f416425fb",
+    "size_in_bytes": 8
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "0d467c8e5453c7f4fd5a9165300b08ef77e9bf5c67fc4bbda571d884413add04",
+    "sha256_in_prefix": "0d467c8e5453c7f4fd5a9165300b08ef77e9bf5c67fc4bbda571d884413add04",
+    "size_in_bytes": 686
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "5ddbb4ba3763956f5b87592f890f2463f72e6f7fda8e877d358e32a38ac905cf",
+    "sha256_in_prefix": "5ddbb4ba3763956f5b87592f890f2463f72e6f7fda8e877d358e32a38ac905cf",
+    "size_in_bytes": 701
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4/__pycache__/utils.cpython-37.pyc",
+    "path_type": "hardlink",
+    "sha256": "75c7b389d27b7295aa115f31eb69bf220aacca60f426908b11daf79fa9546978",
+    "sha256_in_prefix": "75c7b389d27b7295aa115f31eb69bf220aacca60f426908b11daf79fa9546978",
+    "size_in_bytes": 22681
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4/_netCDF4.cp37-win_amd64.pyd",
+    "path_type": "hardlink",
+    "sha256": "3c4395168b2fa5cd8f4e51ec5cf54203c025093e0b1c8394a63a153739bbf0de",
+    "sha256_in_prefix": "3c4395168b2fa5cd8f4e51ec5cf54203c025093e0b1c8394a63a153739bbf0de",
+    "size_in_bytes": 948224
+   },
+   {
+    "_path": "Lib/site-packages/netCDF4/utils.py",
+    "path_type": "hardlink",
+    "sha256": "2daa80ecdcceaeba301b5dd457934024bd30a917311c84184daa1b50eb05ae2d",
+    "sha256_in_prefix": "2daa80ecdcceaeba301b5dd457934024bd30a917311c84184daa1b50eb05ae2d",
+    "size_in_bytes": 35547
+   },
+   {
+    "_path": "Scripts/nc3tonc4-script.py",
+    "path_type": "hardlink",
+    "sha256": "45a4418f284011975844e46ac326865cbb12213bcd711535f4d3e26bab09056b",
+    "sha256_in_prefix": "45a4418f284011975844e46ac326865cbb12213bcd711535f4d3e26bab09056b",
+    "size_in_bytes": 215
+   },
+   {
+    "_path": "Scripts/nc3tonc4.exe",
+    "path_type": "hardlink",
+    "sha256": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+    "sha256_in_prefix": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+    "size_in_bytes": 40960
+   },
+   {
+    "_path": "Scripts/nc4tonc3-script.py",
+    "path_type": "hardlink",
+    "sha256": "589a160eae068a3dd1b6eec5b6f0976293b0744e65ab27fa4ff0f29c661178eb",
+    "sha256_in_prefix": "589a160eae068a3dd1b6eec5b6f0976293b0744e65ab27fa4ff0f29c661178eb",
+    "size_in_bytes": 215
+   },
+   {
+    "_path": "Scripts/nc4tonc3.exe",
+    "path_type": "hardlink",
+    "sha256": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+    "sha256_in_prefix": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+    "size_in_bytes": 40960
+   },
+   {
+    "_path": "Scripts/ncinfo-script.py",
+    "path_type": "hardlink",
+    "sha256": "b0ea4fddbcd66c2484deac445da276b817bdf38696eef9771121fa9944fce5b4",
+    "sha256_in_prefix": "b0ea4fddbcd66c2484deac445da276b817bdf38696eef9771121fa9944fce5b4",
+    "size_in_bytes": 211
+   },
+   {
+    "_path": "Scripts/ncinfo.exe",
+    "path_type": "hardlink",
+    "sha256": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+    "sha256_in_prefix": "993203a406e04936a07829b1f482fd27d739b640482e213f4c49ea1ee78a5fcf",
+    "size_in_bytes": 40960
+   }
+  ],
+  "paths_version": 1
+ },
+ "requested_spec": "netcdf4=1.4.2",
+ "sha256": "d8ac5b5cf0de9c97796ecafeb7e157ef7df7f32dcbbb3e5b893f58ea1b826eea",
+ "size": 345859,
+ "subdir": "win-64",
+ "timestamp": 1545407430761,
+ "track_features": "",
+ "url": "https://repo.anaconda.com/pkgs/main/win-64/netcdf4-1.4.2-py37h812ae01_0.conda",
+ "version": "1.4.2"
+}

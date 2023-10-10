@@ -1,0 +1,114 @@
+{
+ "arch": "x86_64",
+ "build": "0",
+ "build_number": 0,
+ "channel": "https://conda.anaconda.org/cadwr-dms/win-64",
+ "constrains": [],
+ "depends": [],
+ "extracted_package_dir": "",
+ "features": "",
+ "files": [
+  "Library/bin/concrt140.dll",
+  "Library/bin/hdf5.dll",
+  "Library/bin/hdf5_cpp.dll",
+  "Library/bin/hdf5_hl.dll",
+  "Library/bin/hdf5_hl_cpp.dll",
+  "Library/bin/hdf5_tools.dll",
+  "Library/bin/msvcp140.dll",
+  "Library/bin/szip.dll",
+  "Library/bin/vcruntime140.dll",
+  "Library/bin/zlib.dll"
+ ],
+ "fn": "hdf5-1.10.4-0.tar.bz2",
+ "license": "LGPL",
+ "link": {
+  "source": "",
+  "type": 1
+ },
+ "md5": "69f733c5de21aae3bac689d1c93cfa7e",
+ "name": "hdf5",
+ "package_tarball_full_path": "",
+ "paths_data": {
+  "paths": [
+   {
+    "_path": "Library/bin/concrt140.dll",
+    "path_type": "hardlink",
+    "sha256": "511aba3d00b9925e7bc64e2132d77a76c1fd9e9d200ec0ef864b7a0f00c68995",
+    "sha256_in_prefix": "511aba3d00b9925e7bc64e2132d77a76c1fd9e9d200ec0ef864b7a0f00c68995",
+    "size_in_bytes": 333632
+   },
+   {
+    "_path": "Library/bin/hdf5.dll",
+    "path_type": "hardlink",
+    "sha256": "0f9f9b0c68b6cbf2b90173bf007638a09ad5dd5701ed7661f7fb7bc4fdd1e803",
+    "sha256_in_prefix": "0f9f9b0c68b6cbf2b90173bf007638a09ad5dd5701ed7661f7fb7bc4fdd1e803",
+    "size_in_bytes": 3062784
+   },
+   {
+    "_path": "Library/bin/hdf5_cpp.dll",
+    "path_type": "hardlink",
+    "sha256": "fb7631b9797d4dcb3ed3f0029be360ba846dab5ef3c83a5b5f2313fc42d3cbf7",
+    "sha256_in_prefix": "fb7631b9797d4dcb3ed3f0029be360ba846dab5ef3c83a5b5f2313fc42d3cbf7",
+    "size_in_bytes": 375808
+   },
+   {
+    "_path": "Library/bin/hdf5_hl.dll",
+    "path_type": "hardlink",
+    "sha256": "bde19a85cbf7d6b21cf54889cd5f51065dd484b4dff4032597eb8daa840f6cee",
+    "sha256_in_prefix": "bde19a85cbf7d6b21cf54889cd5f51065dd484b4dff4032597eb8daa840f6cee",
+    "size_in_bytes": 112128
+   },
+   {
+    "_path": "Library/bin/hdf5_hl_cpp.dll",
+    "path_type": "hardlink",
+    "sha256": "a6ade364a62ac50ba6d58acaf197b4ea7995dfc778d2770d5fff9ba70968a275",
+    "sha256_in_prefix": "a6ade364a62ac50ba6d58acaf197b4ea7995dfc778d2770d5fff9ba70968a275",
+    "size_in_bytes": 15360
+   },
+   {
+    "_path": "Library/bin/hdf5_tools.dll",
+    "path_type": "hardlink",
+    "sha256": "e154f681f0e87b9fc1925f3c1761d05f0b9d017e0be76ce8cea14b1cf15749af",
+    "sha256_in_prefix": "e154f681f0e87b9fc1925f3c1761d05f0b9d017e0be76ce8cea14b1cf15749af",
+    "size_in_bytes": 201728
+   },
+   {
+    "_path": "Library/bin/msvcp140.dll",
+    "path_type": "hardlink",
+    "sha256": "517cd3aac2177a357cca6032f07ad7360ee8ca212a02dd6e1301bf6cfade2094",
+    "sha256_in_prefix": "517cd3aac2177a357cca6032f07ad7360ee8ca212a02dd6e1301bf6cfade2094",
+    "size_in_bytes": 633152
+   },
+   {
+    "_path": "Library/bin/szip.dll",
+    "path_type": "hardlink",
+    "sha256": "6f7af3a228251393f6b8cd4735c6705d42eb53fd8623d9867a9794409aeb368b",
+    "sha256_in_prefix": "6f7af3a228251393f6b8cd4735c6705d42eb53fd8623d9867a9794409aeb368b",
+    "size_in_bytes": 52736
+   },
+   {
+    "_path": "Library/bin/vcruntime140.dll",
+    "path_type": "hardlink",
+    "sha256": "d89c7b863fc1ac3a179d45d5fe1b9fd35fb6fbd45171ca68d0d68ab1c1ad04fb",
+    "sha256_in_prefix": "d89c7b863fc1ac3a179d45d5fe1b9fd35fb6fbd45171ca68d0d68ab1c1ad04fb",
+    "size_in_bytes": 87888
+   },
+   {
+    "_path": "Library/bin/zlib.dll",
+    "path_type": "hardlink",
+    "sha256": "7e0ea284d36c0b4af195798dcd60e9c4b29e79cf9208d82697798bef615ef286",
+    "sha256_in_prefix": "7e0ea284d36c0b4af195798dcd60e9c4b29e79cf9208d82697798bef615ef286",
+    "size_in_bytes": 85504
+   }
+  ],
+  "paths_version": 1
+ },
+ "platform": "win32",
+ "requested_spec": "hdf5=1.10.4",
+ "size": 1902045,
+ "subdir": "win-64",
+ "timestamp": 1586387423213,
+ "track_features": "",
+ "url": "https://conda.anaconda.org/cadwr-dms/win-64/hdf5-1.10.4-0.tar.bz2",
+ "version": "1.10.4"
+}

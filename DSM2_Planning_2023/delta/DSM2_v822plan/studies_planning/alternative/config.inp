@@ -1,0 +1,90 @@
+# Description
+# Planning study for Calsim 3
+# Delivery Capability Recport 2021 Future Condition Climate Change 2040
+# 202309
+ENVVAR
+NAME                     VALUE
+DSM2MODIFIER             2040alt                               #Study name used for DSM2 and prepro 
+DSM2INPUTDIR             ../../common_input
+HYDROINPUTDIR            ./input/HYDRO
+QUALINPUTDIR             ./input/QUAL
+CALSIMNAME               calsim_2040alt                    #Name of CALSIM file
+CALSIMSTUDY_ORIGINAL     2040alt                                  #fpart of calsim
+CALSIMSTUDY_MODIFIED     ${CALSIMSTUDY_ORIGINAL}_${DSM2MODIFIER} #modified fpart after preprocessing
+CALSIMSTUDY              ${CALSIMSTUDY_MODIFIED}                 #CALSIM study name used for DSM2
+CALSIMSTEP               1MON
+# DICU_VERSION             DWR-BDO-DCD2016                         #Appears in F-PART of DICU data
+ASTRO_STAGE_VERSION      HARMONIC_NAVD_20230413                  #ASTRO-PLANNING-2
+STAGE_VERSION            PLAN_DETREND_NAVD_20230413              #PLANNING-2-SL
+MODSTAGE_VERSION         PLAN_${DSM2MODIFIER}
+MODEC_VERSION            PLAN_${DSM2MODIFIER}
+SJR_PROCESS              MULTI_STEP                              #SINGLE_STEP or MULTI_STEP
+
+#runtime
+START_DATE               01FEB1921                               #warm-up before 192110
+QUAL_START_DATE          02FEB1921                               #warm-up before 192110
+# START_DATE               01DEC1921    #01OCT1974 #    01DEC2014    #
+# QUAL_START_DATE          02DEC1921    #02OCT1974 #    02DEC2014    #
+PTM_START_DATE           ${QUAL_START_DATE}
+END_DATE                 01OCT2015    #01OCT1991 #
+START_TIME               0000
+END_TIME                 0000
+
+#Input envvars
+STUDYDIR                 .
+TSINPUTDIR               ../../timeseries_plan                           #Where timeseries are stored
+TEMPDIR                  z:/temp                                         #temporary directory. Please change
+TSINPUTLOCAL             ./timeseries                                    #Local timeseries location
+CALSIMDIR                ${TSINPUTLOCAL}/CALSIM                          #For Condor or single prepro
+BOUNDARYFILE             ${TSINPUTLOCAL}/${DSM2MODIFIER}.dss
+QUALBOUNDARYFILE         ${BOUNDARYFILE}
+
+CALSIMFILE               ${CALSIMDIR}/${CALSIMNAME}.dss                  #Calsim output file
+CALSIM_SMOOTH            ${BOUNDARYFILE}                                 #Pre-processed boundary input (hydro/qual)
+
+DICUDIR                  ${TSINPUTDIR}
+DICUFLOWFILE             ${DICUDIR}/DCD_plan2040_Sep2023_Lch5.dss        #monthly calculated from daily, 192110-202309
+DICUFILE                 ${DICUFLOWFILE}                                 #DCD copied in boundary file
+# DICUFILE                 ${BOUNDARYFILE}                                 #DCD copied in boundary file
+SSCDFILE                 ${TSINPUTDIR}/SMCD_plan2040_Sep2023.dss         #monthly calculated from SMCD_hist, 192110-202309
+DICUFILE_EC              ${TSINPUTDIR}/dicu-wq-2020.dss                  #Base DICU file for EC--2005 are the same as 2020
+DICUFILE_ECE             ${BOUNDARYFILE}
+SMCDFILEEC               ${TSINPUTDIR}/SMCD_plan_wq_ec.dss               #monthly calculated from SMCD_wq_ec_hist_plan
+
+TSFILE_DOC               ${TSINPUTLOCAL}/DOC/DOC_boundary_2002.dss
+DICUFILE_DOC             ${TSINPUTLOCAL}/DOC/dicuwq_3vals.dss            #Base DICU file for EC--2005 are the same as 2020
+DICUFILE_DOCE            ${BOUNDARYFILE}
+
+GATEFILE                 ${BOUNDARYFILE}
+CLIFTONCT_GATEFILE       ${TSINPUTDIR}/ccfb.dss                          #File containing Clifton Ct Priority Ops
+CLIFTONCT_GATEOP         PRIORITY-3                                      #Version of Clifton Court Op to use
+STAGE_SOURCE_FILE        ${TSINPUTDIR}/Planning_mtz_tide.dss             #updated 1919-2022
+STAGEFILE                ${BOUNDARYFILE}
+
+#Output
+DSM2OUTPUTDIR            ${STUDYDIR}/output
+OUTPUTFILE               ${DSM2MODIFIER}.dss
+#Hydro
+HYDROOUTDSSFILE          ${DSM2OUTPUTDIR}/${OUTPUTFILE}
+HYDROOUTFILE             ${DSM2OUTPUTDIR}/${DSM2MODIFIER}.hof
+HYDRORSTFILE             ${DSM2OUTPUTDIR}/${DSM2MODIFIER}.hrf
+HYDROTIDEFILE            ${DSM2OUTPUTDIR}/${DSM2MODIFIER}.h5
+GATEOUTPUTFILE           ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_GATE.dss
+HYDROOUTDSSFILE_FLOW     ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_FLOW.dss
+HYDROOUTDSSFILE_STAGE    ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_STAGE.dss
+HYDROOUTDSSFILE_VEL      ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_VEL.dss
+#Qual EC
+QUALOUTDSSFILE           ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_QUAL.dss
+QUALOUTFILE              ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_QUAL.qof
+QUALRSTFILE              ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_QUAL.qrf
+QUALOUTDSSFILE_EC        ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_EC.dss
+QUALOUTDSSFILE_DOC       ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_DOC.dss
+QUALOUTDSSFILE_VOL_FP    ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_VOL_FP.dss
+QUALOUTDSSFILE_EC_FP     ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_EC_FP.dss
+QUALOUTDSSFILE_EC_X2     ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_EC_X2.dss
+QUALOUTDSSFILE_EC_ANN    ${DSM2OUTPUTDIR}/${DSM2MODIFIER}_EC_ANN.dss
+
+FINE_OUT                 15MIN
+END
+
+

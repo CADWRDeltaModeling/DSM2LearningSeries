@@ -1,0 +1,114 @@
+{
+ "build": "py_0",
+ "build_number": 0,
+ "channel": "https://conda.anaconda.org/conda-forge/noarch",
+ "constrains": [],
+ "depends": [
+  "inflect",
+  "more-itertools >=4.0.0",
+  "python >=3.6"
+ ],
+ "extracted_package_dir": "",
+ "features": "",
+ "files": [
+  "Lib/site-packages/jaraco.itertools-5.0.0.dist-info/INSTALLER",
+  "Lib/site-packages/jaraco.itertools-5.0.0.dist-info/LICENSE",
+  "Lib/site-packages/jaraco.itertools-5.0.0.dist-info/METADATA",
+  "Lib/site-packages/jaraco.itertools-5.0.0.dist-info/RECORD",
+  "Lib/site-packages/jaraco.itertools-5.0.0.dist-info/WHEEL",
+  "Lib/site-packages/jaraco.itertools-5.0.0.dist-info/top_level.txt",
+  "Lib/site-packages/jaraco/__init__.py",
+  "Lib/site-packages/jaraco/itertools.py",
+  "Lib/site-packages/jaraco/__pycache__/__init__.cpython-37.pyc",
+  "Lib/site-packages/jaraco/__pycache__/itertools.cpython-37.pyc"
+ ],
+ "fn": "jaraco.itertools-5.0.0-py_0.tar.bz2",
+ "license": "MIT",
+ "license_family": "MIT",
+ "link": {
+  "source": "",
+  "type": 1
+ },
+ "md5": "e512d05c8204e154c127dc45c4ea769a",
+ "name": "jaraco.itertools",
+ "noarch": "python",
+ "package_tarball_full_path": "",
+ "package_type": "noarch_python",
+ "paths_data": {
+  "paths": [
+   {
+    "_path": "site-packages/jaraco.itertools-5.0.0.dist-info/INSTALLER",
+    "path_type": "hardlink",
+    "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+    "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+    "size_in_bytes": 5
+   },
+   {
+    "_path": "site-packages/jaraco.itertools-5.0.0.dist-info/LICENSE",
+    "path_type": "hardlink",
+    "sha256": "a55e2ffe9b44998e621d51d8c094bed09acc4b5236ee73d7df395a33ba3c18fd",
+    "sha256_in_prefix": "a55e2ffe9b44998e621d51d8c094bed09acc4b5236ee73d7df395a33ba3c18fd",
+    "size_in_bytes": 1050
+   },
+   {
+    "_path": "site-packages/jaraco.itertools-5.0.0.dist-info/METADATA",
+    "path_type": "hardlink",
+    "sha256": "f2e545a682d1695fb6a7bc340beac499471ff31a3e4844486560a856971263a1",
+    "sha256_in_prefix": "f2e545a682d1695fb6a7bc340beac499471ff31a3e4844486560a856971263a1",
+    "size_in_bytes": 1780
+   },
+   {
+    "_path": "site-packages/jaraco.itertools-5.0.0.dist-info/RECORD",
+    "path_type": "hardlink",
+    "sha256": "3ec49ef59682295da01bc85f21472bd43aab9ab98be28559e4d6befd313a6914",
+    "sha256_in_prefix": "3ec49ef59682295da01bc85f21472bd43aab9ab98be28559e4d6befd313a6914",
+    "size_in_bytes": 778
+   },
+   {
+    "_path": "site-packages/jaraco.itertools-5.0.0.dist-info/WHEEL",
+    "path_type": "hardlink",
+    "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+    "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+    "size_in_bytes": 110
+   },
+   {
+    "_path": "site-packages/jaraco.itertools-5.0.0.dist-info/top_level.txt",
+    "path_type": "hardlink",
+    "sha256": "d099cddcb7d71f82c845f5cbf9014e18227341664edc42f1e11d5dfe5a2ea103",
+    "sha256_in_prefix": "d099cddcb7d71f82c845f5cbf9014e18227341664edc42f1e11d5dfe5a2ea103",
+    "size_in_bytes": 7
+   },
+   {
+    "_path": "site-packages/jaraco/__init__.py",
+    "path_type": "hardlink",
+    "sha256": "8efd9817ffdbb1e9254f739613396a279a84db8738696779178af44d38cead64",
+    "sha256_in_prefix": "8efd9817ffdbb1e9254f739613396a279a84db8738696779178af44d38cead64",
+    "size_in_bytes": 65
+   },
+   {
+    "_path": "site-packages/jaraco/itertools.py",
+    "path_type": "hardlink",
+    "sha256": "958571a611708ca82105cd887db24b055bd7f928a197001c2a9ebb88b3f790a6",
+    "sha256_in_prefix": "958571a611708ca82105cd887db24b055bd7f928a197001c2a9ebb88b3f790a6",
+    "size_in_bytes": 31788
+   },
+   {
+    "_path": "Lib/site-packages/jaraco/__pycache__/__init__.cpython-37.pyc",
+    "path_type": "pyc_file"
+   },
+   {
+    "_path": "Lib/site-packages/jaraco/__pycache__/itertools.cpython-37.pyc",
+    "path_type": "pyc_file"
+   }
+  ],
+  "paths_version": 1
+ },
+ "requested_spec": "jaraco.itertools=5.0.0",
+ "sha256": "351448f99f883979d28817ed3399eee0f706eb2f7f58240c5db9e6d9c8eb6b56",
+ "size": 14365,
+ "subdir": "noarch",
+ "timestamp": 1580063854622,
+ "track_features": "",
+ "url": "https://conda.anaconda.org/conda-forge/noarch/jaraco.itertools-5.0.0-py_0.tar.bz2",
+ "version": "5.0.0"
+}
