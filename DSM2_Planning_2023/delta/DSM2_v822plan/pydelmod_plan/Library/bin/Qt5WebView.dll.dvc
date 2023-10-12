@@ -1,0 +1,5 @@
+outs:
+- md5: 1963096f3f24e40769f42929d7ed3f09
+  size: 71680
+  hash: md5
+  path: Qt5WebView.dll

@@ -1,0 +1,6 @@
+outs:
+- md5: dd64eb8d8562be7b5876073a0cf86623
+  size: 25600
+  isexec: true
+  hash: md5
+  path: gss-server.exe

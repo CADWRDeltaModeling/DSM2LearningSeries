@@ -1,0 +1,6 @@
+outs:
+- md5: 965a8a5929f08102663ec50f400cc74d
+  size: 14848
+  isexec: true
+  hash: md5
+  path: rdjpgcom.exe

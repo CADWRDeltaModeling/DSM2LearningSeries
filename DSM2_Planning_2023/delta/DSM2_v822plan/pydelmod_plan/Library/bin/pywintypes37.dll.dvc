@@ -1,0 +1,5 @@
+outs:
+- md5: e51d0e12b88af54840007d3358851136
+  size: 138240
+  hash: md5
+  path: pywintypes37.dll

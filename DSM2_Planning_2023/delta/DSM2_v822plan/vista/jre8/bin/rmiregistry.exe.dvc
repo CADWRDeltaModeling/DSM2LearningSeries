@@ -1,0 +1,6 @@
+outs:
+- md5: 95679cc652283e2831f791e7a8b4d758
+  size: 19584
+  isexec: true
+  hash: md5
+  path: rmiregistry.exe

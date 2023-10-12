@@ -1,0 +1,5 @@
+outs:
+- md5: 702e42f03ee9d5da301ede90132d170b
+  size: 83734
+  hash: md5
+  path: tdbcstub106.lib

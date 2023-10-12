@@ -1,0 +1,6 @@
+outs:
+- md5: 792b92c8ad13c46f27c7ced0810694df
+  size: 107520
+  isexec: true
+  hash: md5
+  path: elevate.exe

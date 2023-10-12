@@ -1,0 +1,5 @@
+outs:
+- md5: 0154395894d6fe32e73bdcc760ab5cfd
+  size: 85504
+  hash: md5
+  path: libexslt.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: d7e618673a00bcc162e59a4d11157e12
+  size: 161784
+  hash: md5
+  path: Qt5Nfc.lib

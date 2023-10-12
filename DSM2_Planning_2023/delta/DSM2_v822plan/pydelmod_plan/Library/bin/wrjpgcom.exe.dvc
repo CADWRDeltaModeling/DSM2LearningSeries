@@ -1,0 +1,6 @@
+outs:
+- md5: 791ff989485b3116f488b70842ae4e75
+  size: 15360
+  isexec: true
+  hash: md5
+  path: wrjpgcom.exe

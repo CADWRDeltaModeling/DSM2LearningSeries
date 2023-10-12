@@ -1,0 +1,5 @@
+outs:
+- md5: 7f807e9837df3ceaf7d70cee5063f903
+  size: 2005958
+  hash: md5
+  path: Qt5Designer.lib

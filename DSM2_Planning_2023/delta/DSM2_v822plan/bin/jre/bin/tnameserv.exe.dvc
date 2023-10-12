@@ -1,0 +1,6 @@
+outs:
+- md5: 44faa76dfe3524de016fed2b02364dcc
+  size: 34704
+  isexec: true
+  hash: md5
+  path: tnameserv.exe

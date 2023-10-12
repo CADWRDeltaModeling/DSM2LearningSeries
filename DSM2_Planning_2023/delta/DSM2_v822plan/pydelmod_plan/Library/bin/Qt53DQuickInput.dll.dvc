@@ -1,0 +1,5 @@
+outs:
+- md5: faf052b383216e655b14d51418541bee
+  size: 46080
+  hash: md5
+  path: Qt53DQuickInput.dll

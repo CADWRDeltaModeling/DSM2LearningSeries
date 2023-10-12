@@ -1,0 +1,5 @@
+outs:
+- md5: 6bb16f78ecf0928ba77a16af8bdc1d76
+  size: 43718
+  hash: md5
+  path: Qt5PacketProtocol.lib

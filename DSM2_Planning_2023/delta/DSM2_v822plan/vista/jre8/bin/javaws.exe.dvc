@@ -1,0 +1,6 @@
+outs:
+- md5: 254935eb3d3012f98d4d8182f54dd8b7
+  size: 386688
+  isexec: true
+  hash: md5
+  path: javaws.exe

@@ -1,0 +1,5 @@
+outs:
+- md5: 820cfdb94135823f0cf77c74b5c374e0
+  size: 39738
+  hash: md5
+  path: Qt5MultimediaWidgets.lib

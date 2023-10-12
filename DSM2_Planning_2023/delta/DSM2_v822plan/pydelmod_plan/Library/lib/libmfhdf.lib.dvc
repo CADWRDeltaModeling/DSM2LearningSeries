@@ -1,0 +1,5 @@
+outs:
+- md5: 69eea6e17f486fe837568b15331ecf3a
+  size: 3513440
+  hash: md5
+  path: libmfhdf.lib

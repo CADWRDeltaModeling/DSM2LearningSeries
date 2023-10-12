@@ -1,0 +1,6 @@
+outs:
+- md5: 3f4418940a8a0e507488ff78caf6fe43
+  size: 337408
+  isexec: true
+  hash: md5
+  path: curl.exe

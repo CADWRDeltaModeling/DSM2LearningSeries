@@ -1,0 +1,5 @@
+outs:
+- md5: 1672a33674cbaf42b3eec20d52930bd9
+  size: 10696
+  hash: md5
+  path: api-ms-win-core-profile-l1-1-0.dll

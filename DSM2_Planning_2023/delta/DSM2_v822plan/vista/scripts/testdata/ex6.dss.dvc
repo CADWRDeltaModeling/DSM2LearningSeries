@@ -1,0 +1,5 @@
+outs:
+- md5: 070dd4c42b261eb797e7228540aeb7cd
+  size: 177664
+  hash: md5
+  path: ex6.dss

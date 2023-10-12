@@ -1,0 +1,5 @@
+outs:
+- md5: b3e9b212ef36518e53c794b23d270480
+  size: 9024
+  hash: md5
+  path: Qt5DesignerComponents.lib

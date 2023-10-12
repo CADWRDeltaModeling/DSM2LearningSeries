@@ -1,0 +1,5 @@
+outs:
+- md5: 59d214e24d9b783316c15bcd12199679
+  size: 931010
+  hash: md5
+  path: Qt5DataVisualization.lib

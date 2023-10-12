@@ -1,0 +1,5 @@
+outs:
+- md5: 0a0f0861f6889a9a374803ef70f42ecc
+  size: 1148416
+  hash: md5
+  path: Qt5Charts.dll

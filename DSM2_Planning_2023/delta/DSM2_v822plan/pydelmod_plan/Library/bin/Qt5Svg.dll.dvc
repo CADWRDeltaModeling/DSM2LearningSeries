@@ -1,0 +1,5 @@
+outs:
+- md5: 5105d82c2a9d5cfbd2ac68eb06d9b720
+  size: 329728
+  hash: md5
+  path: Qt5Svg.dll

@@ -1,0 +1,6 @@
+outs:
+- md5: 71852f2ebba89eb44a33f132c9b7b5be
+  size: 563712
+  isexec: true
+  hash: md5
+  path: designer.exe

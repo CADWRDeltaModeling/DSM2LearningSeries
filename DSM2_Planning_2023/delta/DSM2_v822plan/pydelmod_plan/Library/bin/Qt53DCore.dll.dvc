@@ -1,0 +1,5 @@
+outs:
+- md5: bdbf6cb4f76e940b29d76a3bf1ab1d3c
+  size: 302592
+  hash: md5
+  path: Qt53DCore.dll

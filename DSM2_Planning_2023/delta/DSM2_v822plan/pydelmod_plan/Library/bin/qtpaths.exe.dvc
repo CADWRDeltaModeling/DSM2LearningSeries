@@ -1,0 +1,6 @@
+outs:
+- md5: 9436fe41bd3d8776ea0eb40f032b0ac7
+  size: 32256
+  isexec: true
+  hash: md5
+  path: qtpaths.exe

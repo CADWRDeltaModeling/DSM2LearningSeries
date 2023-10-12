@@ -1,0 +1,6 @@
+outs:
+- md5: 42235fa143988eac85bc7ecd2a77efa0
+  size: 43408
+  isexec: true
+  hash: md5
+  path: jp2launcher.exe

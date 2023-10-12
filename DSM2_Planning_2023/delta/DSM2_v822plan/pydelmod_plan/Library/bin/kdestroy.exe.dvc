@@ -1,0 +1,6 @@
+outs:
+- md5: c9dd6d4d4a6087e851da05e778535c00
+  size: 14336
+  isexec: true
+  hash: md5
+  path: kdestroy.exe

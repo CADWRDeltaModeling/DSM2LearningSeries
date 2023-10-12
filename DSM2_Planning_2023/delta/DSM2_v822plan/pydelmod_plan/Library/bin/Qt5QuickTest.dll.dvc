@@ -1,0 +1,5 @@
+outs:
+- md5: 5f29493919b82ba0e3600bda528520e4
+  size: 121344
+  hash: md5
+  path: Qt5QuickTest.dll

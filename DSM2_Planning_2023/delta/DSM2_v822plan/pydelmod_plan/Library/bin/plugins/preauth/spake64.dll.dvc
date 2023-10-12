@@ -1,0 +1,5 @@
+outs:
+- md5: ec441709d0a2dc29a67979fda33cb704
+  size: 92672
+  hash: md5
+  path: spake64.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: df50047bbd2cf3a4b0cf0567514b464c
+  size: 19720
+  hash: md5
+  path: api-ms-win-core-sysinfo-l1-1-0.dll

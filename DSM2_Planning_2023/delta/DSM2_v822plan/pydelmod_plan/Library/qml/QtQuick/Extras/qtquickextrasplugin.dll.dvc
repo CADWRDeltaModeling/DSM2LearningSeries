@@ -1,0 +1,5 @@
+outs:
+- md5: 4f80f3bc8e75eba8e5fb37ed8f0a8fd4
+  size: 69632
+  hash: md5
+  path: qtquickextrasplugin.dll

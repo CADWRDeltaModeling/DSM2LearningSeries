@@ -1,0 +1,5 @@
+outs:
+- md5: 75fe8fd80b8a6a07f7302ab16bbef782
+  size: 152576
+  hash: md5
+  path: Qt5NetworkAuth.dll

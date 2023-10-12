@@ -1,0 +1,5 @@
+outs:
+- md5: 3d8a9380531ee8dc057667935daff9f1
+  size: 454656
+  hash: md5
+  path: libcurl.dll

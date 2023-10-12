@@ -1,0 +1,5 @@
+outs:
+- md5: ddd3f8874878ec4d6c246adccfd64130
+  size: 757246
+  hash: md5
+  path: Qt5FontDatabaseSupport.lib

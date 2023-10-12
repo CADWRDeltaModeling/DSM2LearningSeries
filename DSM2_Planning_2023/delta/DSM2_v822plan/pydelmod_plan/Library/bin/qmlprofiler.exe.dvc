@@ -1,0 +1,6 @@
+outs:
+- md5: df86f393fae54ce9bbee410cbd912702
+  size: 133120
+  isexec: true
+  hash: md5
+  path: qmlprofiler.exe

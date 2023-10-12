@@ -1,0 +1,6 @@
+outs:
+- md5: 79b68ba324596867a1e38eeee5301f65
+  size: 13312
+  isexec: true
+  hash: md5
+  path: xmlpatternsvalidator.exe

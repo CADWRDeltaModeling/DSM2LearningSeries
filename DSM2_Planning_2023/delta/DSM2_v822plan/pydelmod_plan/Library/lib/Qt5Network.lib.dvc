@@ -1,0 +1,5 @@
+outs:
+- md5: eb6c646e056e957cb8d532e50e8cc8ca
+  size: 506894
+  hash: md5
+  path: Qt5Network.lib

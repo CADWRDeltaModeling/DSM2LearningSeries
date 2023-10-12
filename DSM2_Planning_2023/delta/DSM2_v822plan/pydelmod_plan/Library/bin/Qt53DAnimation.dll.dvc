@@ -1,0 +1,5 @@
+outs:
+- md5: c74ded6ef23e362e33aef672dbce1762
+  size: 317440
+  hash: md5
+  path: Qt53DAnimation.dll

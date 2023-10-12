@@ -1,0 +1,5 @@
+outs:
+- md5: b323ee8dca439f1043b3050bee15b72d
+  size: 132224
+  hash: md5
+  path: hprof.dll

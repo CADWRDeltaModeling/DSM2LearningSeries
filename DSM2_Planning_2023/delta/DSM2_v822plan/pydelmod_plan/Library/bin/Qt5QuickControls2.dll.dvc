@@ -1,0 +1,5 @@
+outs:
+- md5: 943a11a26ba3e521678c94fa5b09f1de
+  size: 118272
+  hash: md5
+  path: Qt5QuickControls2.dll

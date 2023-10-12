@@ -1,0 +1,5 @@
+outs:
+- md5: 5ec07c58400ba1c1a0f7b76c31f820a5
+  size: 578176
+  hash: md5
+  path: mlib_image.dll

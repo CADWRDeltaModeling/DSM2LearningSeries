@@ -1,0 +1,5 @@
+outs:
+- md5: 7dbc97bfee0c7ac89da8d0c770c977b6
+  size: 20923392
+  hash: md5
+  path: opengl32sw.dll

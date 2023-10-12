@@ -1,0 +1,6 @@
+outs:
+- md5: 8117bbef847b129a5b3b15315823f7ae
+  size: 16896
+  isexec: true
+  hash: md5
+  path: gencfu.exe

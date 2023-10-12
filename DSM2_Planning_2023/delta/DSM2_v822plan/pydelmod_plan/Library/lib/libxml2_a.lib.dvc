@@ -1,0 +1,5 @@
+outs:
+- md5: 87a41d2c9b0a15cf888508802621516f
+  size: 5065996
+  hash: md5
+  path: libxml2_a.lib

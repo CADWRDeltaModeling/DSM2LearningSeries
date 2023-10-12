@@ -1,0 +1,5 @@
+outs:
+- md5: adb6aa7c446cb26408a01856fd366789
+  size: 2793472
+  hash: md5
+  path: Qt5XmlPatterns.dll

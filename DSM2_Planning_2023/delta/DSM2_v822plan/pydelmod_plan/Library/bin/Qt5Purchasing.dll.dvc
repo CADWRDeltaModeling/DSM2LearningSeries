@@ -1,0 +1,5 @@
+outs:
+- md5: 0f12fcd2c7653954d950b9cd8e6f7568
+  size: 37888
+  hash: md5
+  path: Qt5Purchasing.dll

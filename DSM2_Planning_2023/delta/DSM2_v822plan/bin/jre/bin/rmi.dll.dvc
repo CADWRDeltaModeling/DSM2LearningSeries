@@ -1,0 +1,5 @@
+outs:
+- md5: 122ca269385d061be0b2d39d58bbda91
+  size: 11664
+  hash: md5
+  path: rmi.dll

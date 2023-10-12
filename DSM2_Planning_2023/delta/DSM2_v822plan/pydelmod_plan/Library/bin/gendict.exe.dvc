@@ -1,0 +1,6 @@
+outs:
+- md5: dbacb7c7c15e0415f3c40cdae4ebf4cd
+  size: 28160
+  isexec: true
+  hash: md5
+  path: gendict.exe

@@ -1,0 +1,5 @@
+outs:
+- md5: 868fd12242b32972841daf519b0b1be2
+  size: 12800
+  hash: md5
+  path: charset.dll

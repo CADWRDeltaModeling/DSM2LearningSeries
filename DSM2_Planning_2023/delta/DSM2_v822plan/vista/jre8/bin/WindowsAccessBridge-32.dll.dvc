@@ -1,0 +1,5 @@
+outs:
+- md5: 1700ab7c27ec019c4c108609a1faf768
+  size: 164992
+  hash: md5
+  path: WindowsAccessBridge-32.dll

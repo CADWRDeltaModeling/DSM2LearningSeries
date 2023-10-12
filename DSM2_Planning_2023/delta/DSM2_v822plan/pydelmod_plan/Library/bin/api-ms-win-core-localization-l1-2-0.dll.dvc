@@ -1,0 +1,5 @@
+outs:
+- md5: 588bd2a8e0152e0918742c1a69038f1d
+  size: 21256
+  hash: md5
+  path: api-ms-win-core-localization-l1-2-0.dll

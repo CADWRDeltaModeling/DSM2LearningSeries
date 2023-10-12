@@ -1,0 +1,6 @@
+outs:
+- md5: c7f600c42c23eae8e561508c69ef0fa5
+  size: 58355729
+  isexec: true
+  hash: md5
+  path: pandoc-citeproc.exe

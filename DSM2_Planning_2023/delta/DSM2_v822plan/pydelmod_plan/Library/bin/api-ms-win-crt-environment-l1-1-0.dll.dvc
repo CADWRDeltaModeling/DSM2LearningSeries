@@ -1,0 +1,5 @@
+outs:
+- md5: c712515d052a385991d30b9c6afc767f
+  size: 19208
+  hash: md5
+  path: api-ms-win-crt-environment-l1-1-0.dll

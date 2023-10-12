@@ -1,0 +1,5 @@
+outs:
+- md5: 58e7acace70b2fa70099c103d54a2438
+  size: 34508
+  hash: md5
+  path: icutest.lib

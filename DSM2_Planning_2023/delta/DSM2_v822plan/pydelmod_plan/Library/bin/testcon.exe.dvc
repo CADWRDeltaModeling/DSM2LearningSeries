@@ -1,0 +1,6 @@
+outs:
+- md5: 98f00d9469544db71747077aeb44c825
+  size: 602624
+  isexec: true
+  hash: md5
+  path: testcon.exe

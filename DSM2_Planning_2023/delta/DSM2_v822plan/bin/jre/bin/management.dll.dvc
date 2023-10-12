@@ -1,0 +1,5 @@
+outs:
+- md5: 8391c21d34c238fa9ec408f056f988e3
+  size: 25488
+  hash: md5
+  path: management.dll

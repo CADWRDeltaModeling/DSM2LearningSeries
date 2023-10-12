@@ -1,0 +1,5 @@
+outs:
+- md5: 9670fa62d58809fe766af50c68554545
+  size: 1535488
+  hash: md5
+  path: sqlite3.dll

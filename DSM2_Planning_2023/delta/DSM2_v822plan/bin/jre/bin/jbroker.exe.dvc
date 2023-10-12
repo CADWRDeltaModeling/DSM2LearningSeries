@@ -1,0 +1,6 @@
+outs:
+- md5: e5bb33e854fb43133abe62f70fa1ae0b
+  size: 117136
+  isexec: true
+  hash: md5
+  path: jbroker.exe

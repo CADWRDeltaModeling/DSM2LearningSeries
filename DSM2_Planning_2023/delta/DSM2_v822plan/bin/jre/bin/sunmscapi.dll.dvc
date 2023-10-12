@@ -1,0 +1,5 @@
+outs:
+- md5: 207bf1462839d83d40a3a9efb5205698
+  size: 22928
+  hash: md5
+  path: sunmscapi.dll

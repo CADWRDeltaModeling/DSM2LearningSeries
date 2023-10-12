@@ -1,0 +1,5 @@
+outs:
+- md5: 68f7a7e28a30a3260f481513bc67c3b7
+  size: 11978
+  hash: md5
+  path: Qt5ScriptTools.lib

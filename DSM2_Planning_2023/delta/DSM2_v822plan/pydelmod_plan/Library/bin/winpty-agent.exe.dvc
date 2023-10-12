@@ -1,0 +1,6 @@
+outs:
+- md5: ba329bc2c0d40a7ded21fa6fa0d02fb7
+  size: 2627338
+  isexec: true
+  hash: md5
+  path: winpty-agent.exe

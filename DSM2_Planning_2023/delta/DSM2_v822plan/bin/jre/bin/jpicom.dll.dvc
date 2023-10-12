@@ -1,0 +1,5 @@
+outs:
+- md5: e69fb30b533ec3fba6227583a47230da
+  size: 104848
+  hash: md5
+  path: jpicom.dll

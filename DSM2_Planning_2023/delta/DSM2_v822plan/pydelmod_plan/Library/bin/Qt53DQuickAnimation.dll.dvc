@@ -1,0 +1,5 @@
+outs:
+- md5: b523bb38fce186c7631ed5a187471d33
+  size: 49664
+  hash: md5
+  path: Qt53DQuickAnimation.dll

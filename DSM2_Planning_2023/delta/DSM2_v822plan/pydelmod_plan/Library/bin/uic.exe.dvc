@@ -1,0 +1,6 @@
+outs:
+- md5: c2a444f89ed56cb9ed2bdcef48092220
+  size: 380928
+  isexec: true
+  hash: md5
+  path: uic.exe

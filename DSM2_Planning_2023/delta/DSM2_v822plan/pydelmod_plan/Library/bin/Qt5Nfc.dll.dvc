@@ -1,0 +1,5 @@
+outs:
+- md5: 6733842503dd522a03a350738195babf
+  size: 130048
+  hash: md5
+  path: Qt5Nfc.dll

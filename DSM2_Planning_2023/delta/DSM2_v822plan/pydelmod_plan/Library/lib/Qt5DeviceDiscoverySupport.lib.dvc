@@ -1,0 +1,5 @@
+outs:
+- md5: 53408ed424a461a857c1a295724262a7
+  size: 20594
+  hash: md5
+  path: Qt5DeviceDiscoverySupport.lib

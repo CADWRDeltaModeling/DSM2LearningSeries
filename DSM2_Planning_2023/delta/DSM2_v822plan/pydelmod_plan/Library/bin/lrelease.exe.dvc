@@ -1,0 +1,6 @@
+outs:
+- md5: bc3c3ae35a76b3849724dbaacac9e181
+  size: 369152
+  isexec: true
+  hash: md5
+  path: lrelease.exe

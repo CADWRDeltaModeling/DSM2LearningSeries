@@ -1,0 +1,5 @@
+outs:
+- md5: c8442353b82a90d19e95aa7afae57510
+  size: 229376
+  hash: md5
+  path: libjpeg.dll

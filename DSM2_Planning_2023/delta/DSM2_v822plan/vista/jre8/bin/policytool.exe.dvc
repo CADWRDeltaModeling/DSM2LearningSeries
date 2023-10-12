@@ -1,0 +1,6 @@
+outs:
+- md5: f4381d59132f97a0684a307ee37420ec
+  size: 19584
+  isexec: true
+  hash: md5
+  path: policytool.exe

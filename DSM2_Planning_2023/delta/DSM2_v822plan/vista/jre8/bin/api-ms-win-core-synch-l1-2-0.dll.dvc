@@ -1,0 +1,5 @@
+outs:
+- md5: eb6f7af7eed6aa9ab03495b62fd3563f
+  size: 11712
+  hash: md5
+  path: api-ms-win-core-synch-l1-2-0.dll

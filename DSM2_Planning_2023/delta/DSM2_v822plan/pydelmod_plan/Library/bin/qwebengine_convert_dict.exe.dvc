@@ -1,0 +1,6 @@
+outs:
+- md5: 227cebcaf6e1c88ed00cf3e710847bbf
+  size: 310272
+  isexec: true
+  hash: md5
+  path: qwebengine_convert_dict.exe

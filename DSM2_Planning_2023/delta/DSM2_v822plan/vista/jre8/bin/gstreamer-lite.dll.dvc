@@ -1,0 +1,5 @@
+outs:
+- md5: ca04db4b51c83fb6193fed7ebc08ef95
+  size: 747648
+  hash: md5
+  path: gstreamer-lite.dll

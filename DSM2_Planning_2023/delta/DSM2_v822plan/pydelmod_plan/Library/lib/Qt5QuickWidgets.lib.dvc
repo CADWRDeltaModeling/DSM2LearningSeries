@@ -1,0 +1,5 @@
+outs:
+- md5: 994d901d67010605493bfbe6b22d8fb7
+  size: 23358
+  hash: md5
+  path: Qt5QuickWidgets.lib

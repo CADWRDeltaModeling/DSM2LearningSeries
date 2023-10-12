@@ -1,0 +1,5 @@
+outs:
+- md5: fc71cfede14945b03324250632b31c06
+  size: 1307394
+  hash: md5
+  path: Qt53DRender.lib

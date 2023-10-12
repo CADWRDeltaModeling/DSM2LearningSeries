@@ -1,0 +1,5 @@
+outs:
+- md5: 7158ce840b4bff0b738d0355f878e8d9
+  size: 43648
+  hash: md5
+  path: verify.dll

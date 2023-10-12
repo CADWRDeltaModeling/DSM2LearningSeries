@@ -1,0 +1,5 @@
+outs:
+- md5: ccaf49c4614c04975489c31c23ef9b0a
+  size: 11664
+  hash: md5
+  path: jawt.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: 17cbce308b8c2fc41ffc5e39d1302e49
+  size: 48128
+  hash: md5
+  path: xpprof64.dll

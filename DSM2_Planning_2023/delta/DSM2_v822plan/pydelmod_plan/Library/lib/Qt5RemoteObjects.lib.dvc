@@ -1,0 +1,5 @@
+outs:
+- md5: fa703fde79a396b0164ad364fc44c470
+  size: 108694
+  hash: md5
+  path: Qt5RemoteObjects.lib

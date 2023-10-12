@@ -1,0 +1,5 @@
+outs:
+- md5: 879fa807e153297902bd8329033ec398
+  size: 12294
+  hash: md5
+  path: winpty.lib

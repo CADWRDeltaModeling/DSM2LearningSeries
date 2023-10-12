@@ -1,0 +1,5 @@
+outs:
+- md5: 822b8f375e3010b04b1aa482a2edddce
+  size: 106236
+  hash: md5
+  path: Qt5SerialBus.lib

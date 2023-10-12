@@ -1,0 +1,5 @@
+outs:
+- md5: ee6be05441e57759fcd2cb32597a7680
+  size: 53136
+  hash: md5
+  path: zip.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: 74aac6e11c8d84a7cebc1dbf95527701
+  size: 72192
+  hash: md5
+  path: Qt5QuickWidgets.dll

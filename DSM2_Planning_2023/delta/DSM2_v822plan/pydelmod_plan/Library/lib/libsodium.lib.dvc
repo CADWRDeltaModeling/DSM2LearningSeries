@@ -1,0 +1,5 @@
+outs:
+- md5: 1d7007a1f87edf883cff11442efde229
+  size: 163052
+  hash: md5
+  path: libsodium.lib

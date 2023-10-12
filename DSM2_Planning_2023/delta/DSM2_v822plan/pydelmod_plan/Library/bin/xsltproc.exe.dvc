@@ -1,0 +1,6 @@
+outs:
+- md5: b57846e1d2e1de832cf2b46f964d008a
+  size: 25088
+  isexec: true
+  hash: md5
+  path: xsltproc.exe

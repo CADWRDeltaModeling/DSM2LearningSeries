@@ -1,0 +1,5 @@
+outs:
+- md5: 17842c12f26e8fb87ff6bc480b86c826
+  size: 86144
+  hash: md5
+  path: net.dll

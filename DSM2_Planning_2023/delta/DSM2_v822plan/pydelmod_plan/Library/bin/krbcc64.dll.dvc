@@ -1,0 +1,5 @@
+outs:
+- md5: b6003a5fb18148ff1ad06fd19fe82e4a
+  size: 115200
+  hash: md5
+  path: krbcc64.dll

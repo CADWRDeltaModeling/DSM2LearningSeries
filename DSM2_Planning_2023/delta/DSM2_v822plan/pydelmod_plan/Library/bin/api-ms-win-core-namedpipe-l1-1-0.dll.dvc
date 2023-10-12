@@ -1,0 +1,5 @@
+outs:
+- md5: a056d4eeaae37deab8333dcc4c910a93
+  size: 18696
+  hash: md5
+  path: api-ms-win-core-namedpipe-l1-1-0.dll

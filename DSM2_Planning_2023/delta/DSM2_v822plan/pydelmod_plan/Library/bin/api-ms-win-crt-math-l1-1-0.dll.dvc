@@ -1,0 +1,5 @@
+outs:
+- md5: 4dd7a61590d07500704e7e775255cb00
+  size: 27912
+  hash: md5
+  path: api-ms-win-crt-math-l1-1-0.dll

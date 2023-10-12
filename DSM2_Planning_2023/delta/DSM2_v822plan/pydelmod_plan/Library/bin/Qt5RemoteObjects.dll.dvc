@@ -1,0 +1,5 @@
+outs:
+- md5: a2cae91555e82ccaf26f9b639c9677da
+  size: 365056
+  hash: md5
+  path: Qt5RemoteObjects.dll

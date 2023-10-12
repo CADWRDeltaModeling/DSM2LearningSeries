@@ -1,0 +1,5 @@
+outs:
+- md5: 9cb8c3ae838562631c89b9f8ebf8a80f
+  size: 92488
+  hash: md5
+  path: Qt5WinExtras.lib

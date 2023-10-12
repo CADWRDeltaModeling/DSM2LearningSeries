@@ -1,0 +1,5 @@
+outs:
+- md5: b36eb543d67fd45a72aae01676aa48af
+  size: 202240
+  hash: md5
+  path: Qt5SerialBus.dll

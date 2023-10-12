@@ -1,0 +1,5 @@
+outs:
+- md5: 50b721a0c945abe3edca6bcee2a70c6c
+  size: 11720
+  hash: md5
+  path: api-ms-win-crt-locale-l1-1-0.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: 3bac4ad08f0a21cbf15adbc51a09a3b2
+  size: 192512
+  hash: md5
+  path: Qt5Xml.dll

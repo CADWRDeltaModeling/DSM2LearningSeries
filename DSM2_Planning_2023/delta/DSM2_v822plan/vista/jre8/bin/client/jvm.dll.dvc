@@ -1,0 +1,5 @@
+outs:
+- md5: bc958298d19f59485ff3639e9757fe46
+  size: 3934848
+  hash: md5
+  path: jvm.dll

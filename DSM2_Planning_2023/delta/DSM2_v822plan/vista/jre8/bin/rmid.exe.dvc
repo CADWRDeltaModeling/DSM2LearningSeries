@@ -1,0 +1,6 @@
+outs:
+- md5: c6cae77b553b9907b341d7e64a34caf1
+  size: 19584
+  isexec: true
+  hash: md5
+  path: rmid.exe

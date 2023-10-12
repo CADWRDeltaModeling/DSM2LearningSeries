@@ -1,0 +1,5 @@
+outs:
+- md5: 371a839e28d27d51e71fdfe04f33469e
+  size: 657292
+  hash: md5
+  path: Qt5Charts.lib

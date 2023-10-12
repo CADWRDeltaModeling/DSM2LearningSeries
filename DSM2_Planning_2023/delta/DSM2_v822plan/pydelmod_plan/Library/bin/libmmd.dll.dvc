@@ -1,0 +1,5 @@
+outs:
+- md5: e7d4cdc5a055e6c32ed6d8d82c606e1d
+  size: 4271832
+  hash: md5
+  path: libmmd.dll

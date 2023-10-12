@@ -1,0 +1,5 @@
+outs:
+- md5: 7e1b9dd679e4cd38497ecbe804bc2943
+  size: 204000
+  hash: md5
+  path: Qt5Svg.lib

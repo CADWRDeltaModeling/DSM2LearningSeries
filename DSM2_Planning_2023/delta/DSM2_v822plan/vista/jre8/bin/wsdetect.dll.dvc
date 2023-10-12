@@ -1,0 +1,5 @@
+outs:
+- md5: c1fff282d9507b413fe01172063a9cc2
+  size: 183936
+  hash: md5
+  path: wsdetect.dll

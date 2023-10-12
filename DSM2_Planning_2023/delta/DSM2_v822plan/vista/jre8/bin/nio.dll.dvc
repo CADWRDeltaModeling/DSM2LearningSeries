@@ -1,0 +1,5 @@
+outs:
+- md5: 3a76dad0916f7dbb8ad9f71d982ec9b7
+  size: 54400
+  hash: md5
+  path: nio.dll

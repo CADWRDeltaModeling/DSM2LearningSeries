@@ -1,0 +1,5 @@
+outs:
+- md5: 667398d049298c58bf4d03c2fe874051
+  size: 17920
+  hash: md5
+  path: file_rts.dss

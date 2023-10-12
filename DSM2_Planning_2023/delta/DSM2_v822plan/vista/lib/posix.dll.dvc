@@ -1,0 +1,5 @@
+outs:
+- md5: c2e21739439e75738d19973418598dbf
+  size: 99840
+  hash: md5
+  path: posix.dll

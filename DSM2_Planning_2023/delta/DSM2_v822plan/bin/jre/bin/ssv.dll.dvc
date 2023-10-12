@@ -1,0 +1,5 @@
+outs:
+- md5: 7e9999686e82c1adb02589d2b8294e68
+  size: 362896
+  hash: md5
+  path: ssv.dll

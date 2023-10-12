@@ -1,0 +1,6 @@
+outs:
+- md5: e4fd10d63206b5600d3dc2c8b373b0a8
+  size: 200192
+  isexec: true
+  hash: md5
+  path: lconvert.exe

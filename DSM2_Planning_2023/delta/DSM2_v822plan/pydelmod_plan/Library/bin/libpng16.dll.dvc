@@ -1,0 +1,5 @@
+outs:
+- md5: a3dd56c137a262f9b8aa72121a28237c
+  size: 192512
+  hash: md5
+  path: libpng16.dll

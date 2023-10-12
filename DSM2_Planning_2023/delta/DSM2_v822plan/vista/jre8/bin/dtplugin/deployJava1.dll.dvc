@@ -1,0 +1,5 @@
+outs:
+- md5: c2a8ac1e01985feee685fe2edd1c7e27
+  size: 1073280
+  hash: md5
+  path: deployJava1.dll

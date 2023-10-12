@@ -1,0 +1,5 @@
+outs:
+- md5: 316ada9e5e9329d2fe5bf89f7a53111e
+  size: 1686
+  hash: md5
+  path: icudt.lib

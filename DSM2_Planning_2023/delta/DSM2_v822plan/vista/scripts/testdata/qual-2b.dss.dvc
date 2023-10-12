@@ -1,0 +1,5 @@
+outs:
+- md5: 3c4ee78af2f002dc9c845151c21d2d2a
+  size: 38400
+  hash: md5
+  path: qual-2b.dss

@@ -1,0 +1,5 @@
+outs:
+- md5: 5a10eb954dd2094096c84c57baa9391b
+  size: 1998796
+  hash: md5
+  path: Qt5Quick.lib

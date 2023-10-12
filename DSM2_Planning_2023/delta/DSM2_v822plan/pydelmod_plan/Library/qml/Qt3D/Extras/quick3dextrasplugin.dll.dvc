@@ -1,0 +1,5 @@
+outs:
+- md5: 1d735084e4562e0fbc5603ef88318e41
+  size: 98304
+  hash: md5
+  path: quick3dextrasplugin.dll

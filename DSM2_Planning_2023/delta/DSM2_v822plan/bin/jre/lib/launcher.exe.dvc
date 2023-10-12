@@ -1,0 +1,6 @@
+outs:
+- md5: bd73fccab66b42e88e4771a343a392f2
+  size: 47536
+  isexec: true
+  hash: md5
+  path: launcher.exe

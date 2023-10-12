@@ -1,0 +1,6 @@
+outs:
+- md5: df332fc1c53436fde129f7766ea0b1ee
+  size: 172544
+  isexec: true
+  hash: md5
+  path: qhelpconverter.exe

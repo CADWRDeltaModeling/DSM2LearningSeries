@@ -1,0 +1,6 @@
+outs:
+- md5: 6b20039fe981903b54704576fafc4091
+  size: 150528
+  isexec: true
+  hash: md5
+  path: qmllint.exe

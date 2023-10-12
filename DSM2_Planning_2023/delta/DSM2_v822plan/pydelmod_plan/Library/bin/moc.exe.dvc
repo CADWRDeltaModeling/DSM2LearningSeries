@@ -1,0 +1,6 @@
+outs:
+- md5: 80678971fd96de92e759c9511143e4df
+  size: 1162240
+  isexec: true
+  hash: md5
+  path: moc.exe

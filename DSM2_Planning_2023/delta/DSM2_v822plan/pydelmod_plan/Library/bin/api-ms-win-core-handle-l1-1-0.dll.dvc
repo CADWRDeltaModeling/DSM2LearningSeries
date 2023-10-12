@@ -1,0 +1,5 @@
+outs:
+- md5: cce27ff9b1e78b61955682788452f785
+  size: 18696
+  hash: md5
+  path: api-ms-win-core-handle-l1-1-0.dll

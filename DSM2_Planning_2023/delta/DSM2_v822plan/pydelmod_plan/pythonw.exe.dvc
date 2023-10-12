@@ -1,0 +1,6 @@
+outs:
+- md5: 55460004fd820e3e015f40ed3c55ed31
+  size: 93696
+  isexec: true
+  hash: md5
+  path: pythonw.exe

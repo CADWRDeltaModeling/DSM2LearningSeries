@@ -1,0 +1,5 @@
+outs:
+- md5: d391360d7dd99605fa0d8457d409285f
+  size: 757
+  hash: md5
+  path: Info.plist.lib

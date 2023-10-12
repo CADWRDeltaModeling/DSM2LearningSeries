@@ -1,0 +1,5 @@
+outs:
+- md5: 1d619b8f3e9f5374b84c8e460d605884
+  size: 2577022
+  hash: md5
+  path: Qt5UiTools.lib

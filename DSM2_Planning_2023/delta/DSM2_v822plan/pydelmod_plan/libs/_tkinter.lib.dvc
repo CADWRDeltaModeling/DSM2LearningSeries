@@ -1,0 +1,5 @@
+outs:
+- md5: da32467f0ca959111fae38f34ed99eed
+  size: 1750
+  hash: md5
+  path: _tkinter.lib

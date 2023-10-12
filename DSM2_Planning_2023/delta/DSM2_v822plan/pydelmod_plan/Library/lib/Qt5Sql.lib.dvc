@@ -1,0 +1,5 @@
+outs:
+- md5: 5b612e063c6e1b32147f36274210a68f
+  size: 172760
+  hash: md5
+  path: Qt5Sql.lib

@@ -1,0 +1,5 @@
+outs:
+- md5: 919af9d76c797b792703c310ee0fdc18
+  size: 370796
+  hash: md5
+  path: Qt53DCore.lib

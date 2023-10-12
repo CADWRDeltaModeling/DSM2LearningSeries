@@ -1,0 +1,6 @@
+outs:
+- md5: 20c8d8a82c37e8514a331dfff45c5b06
+  size: 12800
+  isexec: true
+  hash: md5
+  path: kswitch.exe

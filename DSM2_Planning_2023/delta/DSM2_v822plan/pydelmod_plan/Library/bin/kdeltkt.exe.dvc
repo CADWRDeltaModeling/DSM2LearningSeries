@@ -1,0 +1,6 @@
+outs:
+- md5: afc36d361ed04f47c111db3b03d8a068
+  size: 13824
+  isexec: true
+  hash: md5
+  path: kdeltkt.exe

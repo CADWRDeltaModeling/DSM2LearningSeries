@@ -1,0 +1,5 @@
+outs:
+- md5: 0c4df3500a0e11be7e82c1e2358cacbf
+  size: 79872
+  hash: md5
+  path: Qt53DQuickScene2D.dll

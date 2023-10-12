@@ -1,0 +1,5 @@
+outs:
+- md5: 6a9ccd776065610540ec3288567c48fd
+  size: 225312
+  hash: md5
+  path: Qt5QmlDebug.lib

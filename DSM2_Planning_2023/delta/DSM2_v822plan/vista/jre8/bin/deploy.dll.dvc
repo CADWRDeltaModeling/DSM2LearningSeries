@@ -1,0 +1,5 @@
+outs:
+- md5: f58e8d81d74b83758fa74398119d0765
+  size: 459392
+  hash: md5
+  path: deploy.dll

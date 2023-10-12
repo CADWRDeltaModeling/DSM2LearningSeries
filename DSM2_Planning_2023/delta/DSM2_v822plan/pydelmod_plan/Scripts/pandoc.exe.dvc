@@ -1,0 +1,6 @@
+outs:
+- md5: 86bbee9a18cc1f44232275bf1dab2629
+  size: 69102097
+  isexec: true
+  hash: md5
+  path: pandoc.exe

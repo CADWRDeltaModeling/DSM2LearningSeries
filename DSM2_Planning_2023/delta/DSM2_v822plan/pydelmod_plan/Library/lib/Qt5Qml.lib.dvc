@@ -1,0 +1,5 @@
+outs:
+- md5: 35845a5597f4a5595e8f3bae2266bedb
+  size: 1939290
+  hash: md5
+  path: Qt5Qml.lib

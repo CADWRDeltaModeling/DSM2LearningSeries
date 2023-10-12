@@ -1,0 +1,5 @@
+outs:
+- md5: 62c19e34cf404548c0f70a96fdf297b4
+  size: 761856
+  hash: md5
+  path: jhdf.dll

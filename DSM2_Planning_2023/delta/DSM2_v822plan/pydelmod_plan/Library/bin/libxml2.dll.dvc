@@ -1,0 +1,5 @@
+outs:
+- md5: 8d18a4fe5a4f6d1a46d4fabf8081b6bd
+  size: 1339392
+  hash: md5
+  path: libxml2.dll

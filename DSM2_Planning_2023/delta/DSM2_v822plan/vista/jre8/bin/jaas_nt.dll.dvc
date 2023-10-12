@@ -1,0 +1,5 @@
+outs:
+- md5: 22c8883523c8aca0014c1dba37a12f7e
+  size: 22144
+  hash: md5
+  path: jaas_nt.dll

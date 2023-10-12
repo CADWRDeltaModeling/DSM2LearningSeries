@@ -1,0 +1,5 @@
+outs:
+- md5: 5408f5003686538103246d2d54b4fc3a
+  size: 5396
+  hash: md5
+  path: libexslt.lib

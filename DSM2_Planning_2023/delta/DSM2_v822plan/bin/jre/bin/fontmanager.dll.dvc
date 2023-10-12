@@ -1,0 +1,5 @@
+outs:
+- md5: c24df29f204818c9b67e3b6d5435137a
+  size: 358800
+  hash: md5
+  path: fontmanager.dll

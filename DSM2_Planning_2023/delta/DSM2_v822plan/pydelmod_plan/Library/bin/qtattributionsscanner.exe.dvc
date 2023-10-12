@@ -1,0 +1,6 @@
+outs:
+- md5: b5c49dbd0e1b9add644ea83fb190d7e8
+  size: 53760
+  isexec: true
+  hash: md5
+  path: qtattributionsscanner.exe

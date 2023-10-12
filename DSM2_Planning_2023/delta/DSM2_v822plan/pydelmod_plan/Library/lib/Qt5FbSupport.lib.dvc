@@ -1,0 +1,5 @@
+outs:
+- md5: 12e7e9c6b82d94433f888f2161b23839
+  size: 138788
+  hash: md5
+  path: Qt5FbSupport.lib

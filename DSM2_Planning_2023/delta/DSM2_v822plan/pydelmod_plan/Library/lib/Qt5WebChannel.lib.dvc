@@ -1,0 +1,5 @@
+outs:
+- md5: 3d3a0174760faa6fc05966afbb796b99
+  size: 50460
+  hash: md5
+  path: Qt5WebChannel.lib

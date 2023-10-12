@@ -1,0 +1,5 @@
+outs:
+- md5: 5e11748af9cb95034b88d191ca215943
+  size: 1172480
+  hash: md5
+  path: Qt5Location.dll

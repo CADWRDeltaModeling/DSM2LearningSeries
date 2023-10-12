@@ -1,0 +1,6 @@
+outs:
+- md5: 8068a90c40452e3b72fdbe1cf48effd8
+  size: 113152
+  isexec: true
+  hash: md5
+  path: qmlplugindump.exe

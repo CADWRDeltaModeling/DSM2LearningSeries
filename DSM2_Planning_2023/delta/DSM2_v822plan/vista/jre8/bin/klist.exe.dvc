@@ -1,0 +1,6 @@
+outs:
+- md5: 997004b63575f41b726aea8b341b76ba
+  size: 19584
+  isexec: true
+  hash: md5
+  path: klist.exe

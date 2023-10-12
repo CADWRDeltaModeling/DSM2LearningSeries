@@ -1,0 +1,6 @@
+outs:
+- md5: 6cd0f43170e63a16a5a875d255057137
+  size: 71168
+  isexec: true
+  hash: md5
+  path: tclsh86t.exe

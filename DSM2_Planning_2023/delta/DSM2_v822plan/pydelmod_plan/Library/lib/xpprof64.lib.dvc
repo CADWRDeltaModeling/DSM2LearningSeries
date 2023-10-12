@@ -1,0 +1,5 @@
+outs:
+- md5: b0edcb55ff6e01bb2a9de67c1cc4e37e
+  size: 5786
+  hash: md5
+  path: xpprof64.lib

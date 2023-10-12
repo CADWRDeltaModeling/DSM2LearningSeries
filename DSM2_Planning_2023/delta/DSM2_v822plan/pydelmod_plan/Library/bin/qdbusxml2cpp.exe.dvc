@@ -1,0 +1,6 @@
+outs:
+- md5: 12609f8d9ee7fd0ba3289ad54d8efd11
+  size: 72192
+  isexec: true
+  hash: md5
+  path: qdbusxml2cpp.exe

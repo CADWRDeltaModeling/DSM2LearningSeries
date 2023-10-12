@@ -1,0 +1,5 @@
+outs:
+- md5: 2af552f9b0f03f44a24371346b1a5fde
+  size: 488448
+  hash: md5
+  path: libzmq.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: 645eb2d64ac1a00999bee68d8b385f05
+  size: 204416
+  hash: md5
+  path: lcms.dll

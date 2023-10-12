@@ -1,0 +1,6 @@
+outs:
+- md5: b00a343572df3ceea3b8da405b4f9b42
+  size: 25088
+  isexec: true
+  hash: md5
+  path: derb.exe

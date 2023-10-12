@@ -1,0 +1,6 @@
+outs:
+- md5: dbe54660f292962d99ebfabcb1fa8430
+  size: 34704
+  isexec: true
+  hash: md5
+  path: kinit.exe

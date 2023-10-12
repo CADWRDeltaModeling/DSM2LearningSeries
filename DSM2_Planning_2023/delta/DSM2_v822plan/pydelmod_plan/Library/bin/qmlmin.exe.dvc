@@ -1,0 +1,6 @@
+outs:
+- md5: 669c3f1012243aeea617fd06dd81096a
+  size: 84480
+  isexec: true
+  hash: md5
+  path: qmlmin.exe

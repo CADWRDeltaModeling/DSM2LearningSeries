@@ -1,0 +1,5 @@
+outs:
+- md5: b36bcfe936bd4fe8e8ef98918f6564dc
+  size: 78444
+  hash: md5
+  path: netcdf.lib

@@ -1,0 +1,4 @@
+[core]
+    remote = dms_remote
+['remote "dms_remote"']
+    url = \\cnrastore-bdo\Delta_Mod\Share\DVC\

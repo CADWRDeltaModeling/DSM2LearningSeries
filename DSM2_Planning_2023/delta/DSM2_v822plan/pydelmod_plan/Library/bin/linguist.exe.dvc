@@ -1,0 +1,6 @@
+outs:
+- md5: f6fab02f5ad0e0e0457eca4eb99a90bf
+  size: 1332224
+  isexec: true
+  hash: md5
+  path: linguist.exe

@@ -1,0 +1,6 @@
+outs:
+- md5: ca8424522ce2a969d5aec1d6f96430c1
+  size: 684032
+  isexec: true
+  hash: md5
+  path: lupdate.exe

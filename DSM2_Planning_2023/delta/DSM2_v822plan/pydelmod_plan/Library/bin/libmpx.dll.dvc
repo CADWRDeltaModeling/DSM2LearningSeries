@@ -1,0 +1,5 @@
+outs:
+- md5: 1f3958e61d4a74e3635aac9b75189725
+  size: 101080
+  hash: md5
+  path: libmpx.dll

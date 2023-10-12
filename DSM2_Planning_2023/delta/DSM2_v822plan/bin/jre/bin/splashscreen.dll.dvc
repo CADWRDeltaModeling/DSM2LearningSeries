@@ -1,0 +1,5 @@
+outs:
+- md5: 7d75c14c0c5bc8876e6f2d145c362271
+  size: 137616
+  hash: md5
+  path: splashscreen.dll

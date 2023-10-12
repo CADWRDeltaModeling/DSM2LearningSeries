@@ -1,0 +1,5 @@
+outs:
+- md5: b533b686172c3f2fd6390b9baf33b07c
+  size: 548480
+  hash: md5
+  path: glib-lite.dll

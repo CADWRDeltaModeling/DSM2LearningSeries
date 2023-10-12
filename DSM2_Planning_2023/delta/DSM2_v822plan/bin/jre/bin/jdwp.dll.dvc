@@ -1,0 +1,5 @@
+outs:
+- md5: 89d1bd9e3cb8f5cdd5235ab45cbfc5e2
+  size: 174480
+  hash: md5
+  path: jdwp.dll

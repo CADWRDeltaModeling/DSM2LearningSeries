@@ -1,0 +1,5 @@
+outs:
+- md5: c4794744a50f4640f22a4ebd30c719b2
+  size: 12584
+  hash: md5
+  path: icuio.lib

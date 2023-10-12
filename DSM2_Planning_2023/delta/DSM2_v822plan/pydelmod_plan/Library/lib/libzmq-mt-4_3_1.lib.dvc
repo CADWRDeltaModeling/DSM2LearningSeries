@@ -1,0 +1,5 @@
+outs:
+- md5: ddbcb45fbfd6c0a5f8c5dcdf4e0010bb
+  size: 15932
+  hash: md5
+  path: libzmq-mt-4_3_1.lib

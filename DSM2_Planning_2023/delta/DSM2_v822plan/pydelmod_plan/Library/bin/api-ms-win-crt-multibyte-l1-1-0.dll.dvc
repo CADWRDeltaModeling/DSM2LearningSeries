@@ -1,0 +1,5 @@
+outs:
+- md5: 4e033cfee32edf6be7847e80a5114894
+  size: 26888
+  hash: md5
+  path: api-ms-win-crt-multibyte-l1-1-0.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: 2aeaa4519ce27e618e5d495032b5bac8
+  size: 57344
+  hash: md5
+  path: errno.dll

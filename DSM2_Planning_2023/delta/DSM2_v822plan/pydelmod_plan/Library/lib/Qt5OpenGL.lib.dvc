@@ -1,0 +1,5 @@
+outs:
+- md5: a9ea51911a69c4ebfdcf974d8ba5ff0c
+  size: 282342
+  hash: md5
+  path: Qt5OpenGL.lib

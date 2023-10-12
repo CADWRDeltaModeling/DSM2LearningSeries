@@ -1,0 +1,5 @@
+outs:
+- md5: adc8daa9fd5a4b2839fcf02398b00c8b
+  size: 90670
+  hash: md5
+  path: Qt5QuickParticles.lib

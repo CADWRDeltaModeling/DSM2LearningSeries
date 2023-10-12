@@ -1,0 +1,6 @@
+outs:
+- md5: 09f732d23c65184750054eb0c7c2d7cb
+  size: 1166848
+  isexec: true
+  hash: md5
+  path: qdoc.exe

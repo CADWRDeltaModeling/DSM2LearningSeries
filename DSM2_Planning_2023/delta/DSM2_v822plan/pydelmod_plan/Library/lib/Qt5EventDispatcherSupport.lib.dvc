@@ -1,0 +1,5 @@
+outs:
+- md5: ac840676fdc9b5aab959534776d2279c
+  size: 39668
+  hash: md5
+  path: Qt5EventDispatcherSupport.lib

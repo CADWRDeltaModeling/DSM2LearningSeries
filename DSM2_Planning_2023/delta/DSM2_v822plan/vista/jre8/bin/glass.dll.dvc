@@ -1,0 +1,5 @@
+outs:
+- md5: ed663f90f9cc8d818bd7aee087a93211
+  size: 214656
+  hash: md5
+  path: glass.dll

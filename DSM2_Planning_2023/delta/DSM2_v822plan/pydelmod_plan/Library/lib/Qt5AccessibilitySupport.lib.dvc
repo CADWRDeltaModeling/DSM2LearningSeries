@@ -1,0 +1,5 @@
+outs:
+- md5: 50586f1b055df977877eb9b63cd810a1
+  size: 13104
+  hash: md5
+  path: Qt5AccessibilitySupport.lib

@@ -1,0 +1,6 @@
+outs:
+- md5: 2fe07d6987ffb2644956a509ada9cb03
+  size: 51712
+  isexec: true
+  hash: md5
+  path: qcollectiongenerator.exe

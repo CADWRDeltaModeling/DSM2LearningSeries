@@ -1,0 +1,5 @@
+outs:
+- md5: 625135e97e1c61e520dbf9a4e4ee162b
+  size: 16784
+  hash: md5
+  path: attach.dll

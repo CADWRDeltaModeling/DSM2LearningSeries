@@ -1,0 +1,6 @@
+outs:
+- md5: 717dad3fcead46ec251e42c7c508511a
+  size: 37376
+  isexec: true
+  hash: md5
+  path: jpegtran.exe

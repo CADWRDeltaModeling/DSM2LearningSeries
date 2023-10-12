@@ -1,0 +1,5 @@
+outs:
+- md5: b959a7257c735f7af77f87e05a66726a
+  size: 655062
+  hash: md5
+  path: libpng16_static.lib

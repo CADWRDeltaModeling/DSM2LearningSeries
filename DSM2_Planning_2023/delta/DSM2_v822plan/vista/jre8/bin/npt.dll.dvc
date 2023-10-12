@@ -1,0 +1,5 @@
+outs:
+- md5: a233135304da85c19b813a33be038310
+  size: 20096
+  hash: md5
+  path: npt.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: 770b92f6e89fc956c458852df02126cc
+  size: 15360
+  hash: md5
+  path: comerr64.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: d310a0a9d1fbf88c179b2a07e3698c9b
+  size: 114688
+  hash: md5
+  path: yaml.dll

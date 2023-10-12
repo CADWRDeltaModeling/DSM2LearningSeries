@@ -1,0 +1,5 @@
+outs:
+- md5: c8d4e2781a0f2752d14b576fa83da033
+  size: 64000
+  hash: md5
+  path: k5sprt64.dll

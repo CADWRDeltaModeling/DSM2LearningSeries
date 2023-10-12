@@ -1,0 +1,5 @@
+outs:
+- md5: 25d7c742a70dfaa0a9b492135925ebd1
+  size: 55936
+  hash: md5
+  path: prism_common.dll

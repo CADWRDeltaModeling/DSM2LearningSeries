@@ -1,0 +1,5 @@
+outs:
+- md5: 37b473b7b8c13bf307b256a992cb0348
+  size: 1150464
+  hash: md5
+  path: Qt5DataVisualization.dll

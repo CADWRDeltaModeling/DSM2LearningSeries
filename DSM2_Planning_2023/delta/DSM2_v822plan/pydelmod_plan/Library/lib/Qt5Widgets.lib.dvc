@@ -1,0 +1,5 @@
+outs:
+- md5: c1496d4a634db102293693b286849392
+  size: 3229122
+  hash: md5
+  path: Qt5Widgets.lib

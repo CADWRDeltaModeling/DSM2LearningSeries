@@ -1,0 +1,5 @@
+outs:
+- md5: daf451348590de505f8168aa7ebf59e7
+  size: 21756
+  hash: md5
+  path: libssp-0.dll

@@ -1,0 +1,5 @@
+outs:
+- md5: e660cf7dbee9866639e1dfd526ab94fc
+  size: 5572608
+  hash: md5
+  path: Qt5Widgets.dll

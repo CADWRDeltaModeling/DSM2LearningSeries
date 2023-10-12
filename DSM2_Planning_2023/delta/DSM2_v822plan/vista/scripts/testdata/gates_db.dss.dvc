@@ -1,0 +1,5 @@
+outs:
+- md5: 691d55adea3c33717dce1892ebb7aeda
+  size: 1742336
+  hash: md5
+  path: gates_db.dss

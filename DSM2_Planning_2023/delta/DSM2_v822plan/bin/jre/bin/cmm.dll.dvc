@@ -1,0 +1,5 @@
+outs:
+- md5: 0ee581ff6f0b5b66541747495f278d92
+  size: 199056
+  hash: md5
+  path: cmm.dll

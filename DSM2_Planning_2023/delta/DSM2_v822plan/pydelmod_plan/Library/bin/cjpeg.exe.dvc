@@ -1,0 +1,6 @@
+outs:
+- md5: a701f6852e57712f8982d1e3031b1e8b
+  size: 34304
+  isexec: true
+  hash: md5
+  path: cjpeg.exe

@@ -1,0 +1,5 @@
+outs:
+- md5: edcd57790601cb74724eeecf7d8ccfba
+  size: 5384
+  hash: md5
+  path: xdr.lib

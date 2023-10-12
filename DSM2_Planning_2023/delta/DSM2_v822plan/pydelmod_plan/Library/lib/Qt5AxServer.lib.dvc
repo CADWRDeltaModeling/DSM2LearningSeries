@@ -1,0 +1,5 @@
+outs:
+- md5: fd56802719d7aad6f4d872f0a63d347b
+  size: 733180
+  hash: md5
+  path: Qt5AxServer.lib

@@ -1,0 +1,5 @@
+outs:
+- md5: 7571d31daeaa1ea137a1d5221c1a7e92
+  size: 319488
+  hash: md5
+  path: Qt5PrintSupport.dll

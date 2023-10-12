@@ -1,0 +1,5 @@
+outs:
+- md5: 10bc6e225829dd23eb81d8f2492e907f
+  size: 63888
+  hash: md5
+  path: sawindbg.dll

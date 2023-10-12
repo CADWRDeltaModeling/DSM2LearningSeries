@@ -1,0 +1,6 @@
+outs:
+- md5: a171bbcbf8e8fdf06b22f0d7502eec41
+  size: 41472
+  isexec: true
+  hash: md5
+  path: pkgdata.exe

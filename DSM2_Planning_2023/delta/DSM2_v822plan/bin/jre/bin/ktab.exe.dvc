@@ -1,0 +1,6 @@
+outs:
+- md5: 51e5e040ce021aedd55dfab6713b0ec9
+  size: 34704
+  isexec: true
+  hash: md5
+  path: ktab.exe

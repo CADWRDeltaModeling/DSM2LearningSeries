@@ -1,0 +1,5 @@
+outs:
+- md5: f593ea1d10e9286252db176d8e02d882
+  size: 33264
+  hash: md5
+  path: Qt53DQuickScene2D.lib

@@ -1,0 +1,5 @@
+outs:
+- md5: dfd584f05d0db4cd44c10f5e2431a14e
+  size: 1210496
+  hash: md5
+  path: awt.dll
