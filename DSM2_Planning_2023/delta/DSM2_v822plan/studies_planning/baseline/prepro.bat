@@ -27,10 +27,8 @@ call "../../vista/bin/vscript" ./scripts/prep_ec.py %CONFIGFILE%
 REM call "../../vista/bin/vscript" ../../scripts/prep_doc.py %CONFIGFILE%
 
 setlocal
-REM set PATH=c:\Windows\System32;c:\Windows;C:\miniconda3
-set PATH=c:\Windows\System32;c:\Windows;%USERPROFILE%\AppData\Local\Miniconda3
+set PATH=c:\Windows\System32;c:\Windows;C:\miniconda3
 call ..\..\pydelmod_plan\Scripts\activate.bat
-REM call python ../../scripts/prep_smscg.py DCR2021EX
 call python ../../scripts/postpro_dss.py timeseries/2021ex.dss "/////15MIN//" timeseries/2021ex.dss
 endlocal
 
