@@ -1,6 +1,0 @@
-outs:
-- md5: c8639b66f9734a7d9886fbc0e61f136e
-  size: 57856
-  isexec: true
-  hash: md5
-  path: xmllint.exe

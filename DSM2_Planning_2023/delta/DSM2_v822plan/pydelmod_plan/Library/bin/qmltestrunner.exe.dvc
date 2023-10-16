@@ -1,6 +1,0 @@
-outs:
-- md5: df58f4ba036e3af203d907712b1b0052
-  size: 10752
-  isexec: true
-  hash: md5
-  path: qmltestrunner.exe

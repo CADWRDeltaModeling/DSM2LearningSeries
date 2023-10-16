@@ -1,5 +1,0 @@
-outs:
-- md5: 2d87a721f414c4ac268bd5c36a62e414
-  size: 63528
-  hash: md5
-  path: sqlite3.lib

@@ -1,5 +1,0 @@
-outs:
-- md5: 377915e45a8b55813be3884188f2db7c
-  size: 86200
-  hash: md5
-  path: Qt5PlatformCompositorSupport.lib

@@ -1,6 +1,0 @@
-outs:
-- md5: f22624bd8cb0e480e65d5b072d182d49
-  size: 19584
-  isexec: true
-  hash: md5
-  path: java-rmi.exe

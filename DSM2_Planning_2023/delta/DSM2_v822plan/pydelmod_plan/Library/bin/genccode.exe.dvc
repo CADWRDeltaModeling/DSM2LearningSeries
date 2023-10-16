@@ -1,6 +1,0 @@
-outs:
-- md5: f36b53815404ac884a01bdda29d2827b
-  size: 11776
-  isexec: true
-  hash: md5
-  path: genccode.exe

@@ -1,6 +1,0 @@
-outs:
-- md5: b0f5b446e564372cc86bca957a5969da
-  size: 40960
-  isexec: true
-  hash: md5
-  path: iptest3.exe

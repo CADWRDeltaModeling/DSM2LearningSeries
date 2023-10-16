@@ -1,6 +1,0 @@
-outs:
-- md5: 1207cb5555bcafb7111a8772da86f3f4
-  size: 106352
-  isexec: true
-  hash: md5
-  path: pycodestyle.exe

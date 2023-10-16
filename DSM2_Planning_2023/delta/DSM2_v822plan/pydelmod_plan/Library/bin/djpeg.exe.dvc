@@ -1,6 +1,0 @@
-outs:
-- md5: 3d3e1b26a3d13931f138fdc7330379bf
-  size: 29696
-  isexec: true
-  hash: md5
-  path: djpeg.exe

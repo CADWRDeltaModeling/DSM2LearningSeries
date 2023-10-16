@@ -1,6 +1,0 @@
-outs:
-- md5: b9f4a3e7575d9e5a968577dd032615e2
-  size: 12288
-  isexec: true
-  hash: md5
-  path: icuinfo.exe

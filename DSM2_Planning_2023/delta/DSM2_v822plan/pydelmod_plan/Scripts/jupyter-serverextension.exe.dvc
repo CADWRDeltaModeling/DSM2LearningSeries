@@ -1,6 +1,0 @@
-outs:
-- md5: 557ab4b6afb074c38b06851d3b4a5200
-  size: 41984
-  isexec: true
-  hash: md5
-  path: jupyter-serverextension.exe

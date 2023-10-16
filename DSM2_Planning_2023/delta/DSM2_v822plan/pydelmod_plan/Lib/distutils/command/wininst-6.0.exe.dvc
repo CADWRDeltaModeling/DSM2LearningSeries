@@ -1,6 +1,0 @@
-outs:
-- md5: 7b112b1fb864c90ec5b65eab21cb40b8
-  size: 61440
-  isexec: true
-  hash: md5
-  path: wininst-6.0.exe

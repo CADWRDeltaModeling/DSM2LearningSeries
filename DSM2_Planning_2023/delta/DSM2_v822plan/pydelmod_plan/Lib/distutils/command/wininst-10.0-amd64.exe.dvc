@@ -1,6 +1,0 @@
-outs:
-- md5: f8a38fd27da720881c0af1ac99b8c1ad
-  size: 222208
-  isexec: true
-  hash: md5
-  path: wininst-10.0-amd64.exe

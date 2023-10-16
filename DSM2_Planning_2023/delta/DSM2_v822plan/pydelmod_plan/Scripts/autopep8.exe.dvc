@@ -1,6 +1,0 @@
-outs:
-- md5: 6a99fbe1c38d1a582991465745322244
-  size: 106347
-  isexec: true
-  hash: md5
-  path: autopep8.exe

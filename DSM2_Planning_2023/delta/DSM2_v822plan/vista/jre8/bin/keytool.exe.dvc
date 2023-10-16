@@ -1,6 +1,0 @@
-outs:
-- md5: 9ed9ce9c33679feb18e54e30795989bf
-  size: 19584
-  isexec: true
-  hash: md5
-  path: keytool.exe

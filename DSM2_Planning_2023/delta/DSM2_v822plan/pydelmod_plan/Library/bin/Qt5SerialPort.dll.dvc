@@ -1,5 +1,0 @@
-outs:
-- md5: f7e0539c991a971a0cf4d8c45b007a02
-  size: 70144
-  hash: md5
-  path: Qt5SerialPort.dll

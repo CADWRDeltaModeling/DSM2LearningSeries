@@ -1,5 +1,0 @@
-outs:
-- md5: 65af1e7ffc9d050392ad87a34c192053
-  size: 31932
-  hash: md5
-  path: libssh2.lib

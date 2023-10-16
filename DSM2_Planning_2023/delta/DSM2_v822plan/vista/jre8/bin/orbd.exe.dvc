@@ -1,6 +1,0 @@
-outs:
-- md5: 0e45290308f102eb4ee8ea6ac918bb4d
-  size: 19584
-  isexec: true
-  hash: md5
-  path: orbd.exe

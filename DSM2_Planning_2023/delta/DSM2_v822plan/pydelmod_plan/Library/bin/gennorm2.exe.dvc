@@ -1,6 +1,0 @@
-outs:
-- md5: 69f21e9b43580619518bc2350cd32592
-  size: 52224
-  isexec: true
-  hash: md5
-  path: gennorm2.exe

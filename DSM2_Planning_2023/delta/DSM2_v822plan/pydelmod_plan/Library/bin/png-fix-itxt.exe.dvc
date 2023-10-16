@@ -1,6 +1,0 @@
-outs:
-- md5: 7fd28cc7661c3f509ee22dd2808277ed
-  size: 11264
-  isexec: true
-  hash: md5
-  path: png-fix-itxt.exe

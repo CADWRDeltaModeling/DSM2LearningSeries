@@ -1,6 +1,0 @@
-outs:
-- md5: 6af7d9c74d70a5fdc815988a02a0f797
-  size: 36480
-  isexec: true
-  hash: md5
-  path: jabswitch.exe

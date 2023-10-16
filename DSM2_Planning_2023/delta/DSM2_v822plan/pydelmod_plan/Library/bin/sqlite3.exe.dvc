@@ -1,6 +1,0 @@
-outs:
-- md5: 72c4179c83e732091b1d481247a6c078
-  size: 1817600
-  isexec: true
-  hash: md5
-  path: sqlite3.exe

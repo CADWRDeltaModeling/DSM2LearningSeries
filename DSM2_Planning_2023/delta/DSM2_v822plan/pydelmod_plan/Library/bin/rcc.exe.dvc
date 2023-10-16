@@ -1,6 +1,0 @@
-outs:
-- md5: 7e00cb46b575c00fd16adaad030f2e1d
-  size: 956928
-  isexec: true
-  hash: md5
-  path: rcc.exe

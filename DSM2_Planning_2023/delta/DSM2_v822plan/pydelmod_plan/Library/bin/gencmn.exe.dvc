@@ -1,6 +1,0 @@
-outs:
-- md5: 74a24e6b04b18a07c1195068fa472148
-  size: 12288
-  isexec: true
-  hash: md5
-  path: gencmn.exe

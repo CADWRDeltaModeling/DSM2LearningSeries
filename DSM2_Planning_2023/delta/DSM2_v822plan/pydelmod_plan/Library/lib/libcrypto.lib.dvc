@@ -1,5 +1,0 @@
-outs:
-- md5: 73d5e551535eea4472709b66c95d243c
-  size: 1011470
-  hash: md5
-  path: libcrypto.lib

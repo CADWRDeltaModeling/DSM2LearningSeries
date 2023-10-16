@@ -1,6 +1,0 @@
-outs:
-- md5: 561391b38d129b5f8d23e0a1aa87fefe
-  size: 149904
-  isexec: true
-  hash: md5
-  path: java.exe

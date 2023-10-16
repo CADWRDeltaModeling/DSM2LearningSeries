@@ -1,5 +1,0 @@
-outs:
-- md5: 7722c1a2129665806ac7ca23b2b23b2c
-  size: 33440
-  hash: md5
-  path: gssapi64.lib

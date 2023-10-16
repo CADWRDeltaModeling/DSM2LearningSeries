@@ -1,5 +1,0 @@
-outs:
-- md5: 165815e0a446b8e8f1c3fffd9ad20b4d
-  size: 1652698
-  hash: md5
-  path: libsodium_static.lib

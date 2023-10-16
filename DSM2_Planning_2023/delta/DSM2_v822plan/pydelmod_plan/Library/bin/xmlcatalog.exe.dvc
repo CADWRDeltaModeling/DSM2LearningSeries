@@ -1,6 +1,0 @@
-outs:
-- md5: 2897f286a5961a90078a7e4c1002bbd2
-  size: 19968
-  isexec: true
-  hash: md5
-  path: xmlcatalog.exe

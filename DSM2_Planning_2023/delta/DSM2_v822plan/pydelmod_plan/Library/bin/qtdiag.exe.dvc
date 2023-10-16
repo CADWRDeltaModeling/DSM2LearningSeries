@@ -1,6 +1,0 @@
-outs:
-- md5: ca23dc7e711f07a2dcb8562a59f9d0c6
-  size: 55296
-  isexec: true
-  hash: md5
-  path: qtdiag.exe

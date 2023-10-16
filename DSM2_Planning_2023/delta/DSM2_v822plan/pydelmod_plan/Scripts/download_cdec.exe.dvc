@@ -1,6 +1,0 @@
-outs:
-- md5: d2778164ef643ba8f44cc202ec7ef157
-  size: 74752
-  isexec: true
-  hash: md5
-  path: download_cdec.exe

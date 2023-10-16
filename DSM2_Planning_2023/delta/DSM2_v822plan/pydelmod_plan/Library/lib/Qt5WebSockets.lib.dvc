@@ -1,5 +1,0 @@
-outs:
-- md5: f8f03f26c61c87459a4e9533ef4526ad
-  size: 50030
-  hash: md5
-  path: Qt5WebSockets.lib

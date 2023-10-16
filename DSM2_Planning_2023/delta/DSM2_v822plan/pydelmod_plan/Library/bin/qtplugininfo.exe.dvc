@@ -1,6 +1,0 @@
-outs:
-- md5: 2610c6cda0ad6505b40bbe64b662a6c9
-  size: 28160
-  isexec: true
-  hash: md5
-  path: qtplugininfo.exe

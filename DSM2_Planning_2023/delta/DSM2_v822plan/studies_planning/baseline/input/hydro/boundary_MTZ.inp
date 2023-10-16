@@ -1,8 +1,0 @@
-# Description:
-# Adjusted astronomical tide
-# 20200201
-BOUNDARY_STAGE
-NAME NODE FILLIN FILE         PATH                                             
-mtz   361 linear ${STAGEFILE} /DWR/RSAC054/STAGE//15MIN/${STAGE_VERSION}/ 
-END
-

@@ -1,6 +1,0 @@
-outs:
-- md5: 8592984e80ddfb4d5718b8637df4f0f4
-  size: 19584
-  isexec: true
-  hash: md5
-  path: servertool.exe

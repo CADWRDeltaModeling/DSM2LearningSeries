@@ -1,6 +1,0 @@
-outs:
-- md5: 321bb48e030dfb369d12cae0eddf336f
-  size: 50688
-  isexec: true
-  hash: md5
-  path: qdbus.exe
